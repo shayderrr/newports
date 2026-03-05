@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "bf_sleep",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "bf woke0",
+			"loop_name": "bf woke"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf serious0",
+			"loop_name": "bf serious"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf shocked0",
+			"loop_name": "bf shocked"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf huh",
+			"idle_name": "bf huh0"
+		},
+		{
+			"loop_name": "bf sleep",
+			"idle_offsets": [
+				0,
+				-20
+			],
+			"idle_name": "bf sleep0",
+			"anim": "sleep",
+			"loop_offsets": [
+				0,
+				-20
+			]
+		}
+	]
+}
