@@ -1,3 +1,0 @@
-cyrix
-cyrixbb
-extra
