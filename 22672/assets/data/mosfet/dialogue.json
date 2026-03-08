@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Looks like you're workin' up the crowd quite a bit, dude!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep Doop Skdep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Keep it up! We've got one more after this one!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop!"
+		}
+	]
+}

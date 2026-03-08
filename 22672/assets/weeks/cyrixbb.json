@@ -1,0 +1,58 @@
+{
+	"storyName": "Binary Breakdown",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "cyrix",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Reboot",
+			"cyrix",
+			[
+				155,
+				0,
+				113
+			]
+		],
+		[
+			"Wattage",
+			"cyrix",
+			[
+				155,
+				0,
+				113
+			]
+		],
+		[
+			"Mosfet",
+			"cyrix",
+			[
+				155,
+				0,
+				113
+			]
+		],
+		[
+			"OVERCLOCK",
+			"cyrix",
+			[
+				155,
+				0,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Binary Breakdown"
+}

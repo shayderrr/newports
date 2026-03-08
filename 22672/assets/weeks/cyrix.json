@@ -1,0 +1,58 @@
+{
+	"storyName": "Money Mixin'",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "studio",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Assembly",
+			"cyrix",
+			[
+				0,
+				240,
+				115
+			]
+		],
+		[
+			"Voltage",
+			"cyrix",
+			[
+				0,
+				240,
+				115
+			]
+		],
+		[
+			"Integer Overflow",
+			"cyrix",
+			[
+				0,
+				240,
+				115
+			]
+		],
+		[
+			"System Crash",
+			"cyrixcrazy",
+			[
+				0,
+				240,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Money Mixin'"
+}

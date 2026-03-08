@@ -1,0 +1,49 @@
+{
+	"storyName": "Bonus",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "cyrixbb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"boolhardy",
+			"cyrix",
+			[
+				155,
+				0,
+				113
+			]
+		],
+		[
+			"nosignal",
+			"Cyrix",
+			[
+				155,
+				0,
+				113
+			]
+		],
+		[
+			"frostbyte",
+			"Cyrix",
+			[
+				155,
+				0,
+				113
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "bonus"
+}

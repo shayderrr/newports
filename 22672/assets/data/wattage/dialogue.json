@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "left",
+			"text": "Ah cmon, you weren't THAT much better than me",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix"
+		},
+		{
+			"expression": "shocked",
+			"text": "Boop?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Nah I'm just pullin' ya leg a bit, don't stress it",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix"
+		},
+		{
+			"expression": "talk",
+			"text": "That was great, seriously!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " As for all you lovely people out here tonight... I know how much you all loved a little song called Voltage, eh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop Beep Da!!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Right on the money, kid!\r"
+		}
+	]
+}

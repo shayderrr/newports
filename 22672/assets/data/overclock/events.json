@@ -1,0 +1,229 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "bbstage",
+		"player1": "bf",
+		"player2": "cyrixbb",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Black Screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8648.64864864865,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				9729.72972972973,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Sprite Removal",
+						"black",
+						""
+					]
+				]
+			],
+			[
+				78918.9189189189,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					],
+					[
+						"Add Camera Zoom",
+						"0.030",
+						""
+					],
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				87567.5675675675,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				96756.7567567567,
+				[
+					[
+						"Slow Zoom",
+						"1.1",
+						"2"
+					]
+				]
+			],
+			[
+				99999.9999999999,
+				[
+					[
+						"Slow Zoom",
+						"1.2",
+						"2"
+					]
+				]
+			],
+			[
+				102162.162162162,
+				[
+					[
+						"Slow Zoom",
+						"1.2",
+						"2"
+					]
+				]
+			],
+			[
+				103783.783783784,
+				[
+					[
+						"Slow Zoom",
+						"1.2",
+						"2"
+					]
+				]
+			],
+			[
+				104864.864864865,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				174054.054054054,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				191351.351351352,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"4"
+					]
+				]
+			],
+			[
+				277837.837837839,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				299459.45945946,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"1.5"
+					]
+				]
+			],
+			[
+				351351.351351352,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				412702.702702702,
+				[
+					[
+						"Black Screen",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"cyrixg"
+					],
+					[
+						"Change Character",
+						"0",
+						"bfg"
+					]
+				]
+			],
+			[
+				420540.54054054,
+				[
+					[
+						"Sprite Removal",
+						"black",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 222,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "overclock"
+	}
+}

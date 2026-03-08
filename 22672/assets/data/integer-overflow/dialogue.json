@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "crazy",
+			"text": "Ha... ha... whew!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "You really are as good as they say...!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep skdap!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "hey",
+			"text": "...Oh!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I forgot to mention it before, but I also heard about your run in with Hex!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "left",
+			"text": "He's something else, ain't he? We've been tight for a while now."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bee? skee ba bop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "left",
+			"text": "Suppose it's easy when you're the only Machines around..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "normal",
+			"expression": "crazy",
+			"text": "But I ain't through with you yet..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cyrix",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "NO MORE HOLDING BACK. HERE WE GO!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...!!!!"
+		}
+	]
+}
