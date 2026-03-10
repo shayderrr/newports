@@ -1,0 +1,17 @@
+:music:3-6:
+:music:fadeIn:
+:bg:discodevil1:
+:bf:default:~Â¡Yea!
+:dj:default:Â¡No estÃ¡ nada mal tÃ­o!
+:olivia:default:Â¡Le has enseÃ±ado quiÃ©n manda!
+:devil:blackened:Â¡FIESTA!
+:cutscenesixteen:
+:sound:floorbreak:
+:music:1-4:
+:music:fadeIn:
+:devil:default:Â¡Ahora sÃ­ que sÃ­! Â¡Tienes el ritmo en las venas niÃ±o!
+:bf:default:BEe-
+:devil:default:Aunqueâ€¦ Â¿Vas detrÃ¡s de la serpentina verdad? No puedo dejar que avances mÃ¡s.
+:bf:default:Bap >:(
+:devil:default:Eres muy bueno con el micrÃ³fono, pero Â¿QuÃ© tal se te da la pista de baile?
+:devil:default:Â¡Hora del show!

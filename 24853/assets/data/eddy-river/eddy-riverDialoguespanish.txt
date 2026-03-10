@@ -1,0 +1,24 @@
+:music:2-1:
+:music:fadeIn:
+:bg:eddy1:
+:gondol:default:Â¡Hey, Chico!
+:bf:default:Â¿Bop?
+:gondol:default:SÃ­, tÃº. Â¡Eso ha sido increÃ­ble! Veo que sabes poner a la gente en su sitio.
+:fade:eddy1:
+:bg:eddy2:
+:bf:default:Boop beep.
+:gondol:default:Â¿EstÃ¡s buscando a Mario? Recuerdo haberle llevado rÃ­o abajo al Desierto de Lija.
+:bf:default:Â¿Beep bo?
+:gondol:default:Â¡Por supuesto amigo! SÃºbete y os llevarÃ© por el rÃ­o a tÃ­ y a tu amiga doblada, ya que parece que confÃ­as en ella.
+:music:2-river:
+:music:fadeIn:
+:fade:eddy2:
+:bg:eddy3:
+:narrator:default:Las aguas cristalinas del rÃ­o y la calma en el ambiente le daban un sentimiento extraÃ±o a Bf, ya que no habÃ­a hecho mÃ¡s que cantar en todo este viaje.
+:narrator:default:El toad decidiÃ³ romper el silencio.
+:gondol:default:Chico.
+:bf:default:?
+:gondol:default:Â¿Te interesarÃ­a cantar otra vez? No es que Mario fuese muy cantante asÃ­ que hace tiempo que no practico.
+:bf:default:Â¡Boop beep!
+:gondol:default:Â¡Genial! Cantar en los rÃ¡pidos debe ser interesanteâ€¦
+:gondol:default:Â¡Procura tener cuidado con los troncos y las rocas en el agua! Un golpe podrÃ­a ser mortal.

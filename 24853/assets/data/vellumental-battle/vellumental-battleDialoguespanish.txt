@@ -1,0 +1,68 @@
+:cutscenethirteen:
+:music:4-5:
+:music:fadeIn:
+:narrator:default:DespuÃ©s de una canciÃ³n rÃ¡pida, subieron al barco con el submarino atado a la popa.
+:narrator:default:La serpentina morada que el grupo ahora buscaba destruir terminaba en una torre oceÃ¡nica gigante, pero la entrada estaba bloqueada por un gran portÃ³n.
+:narrator:default:Este requerÃ­a 3 llaves esfÃ©ricas para poder abrirse.
+:narrator:default:El grupo buscÃ³ las llaves en las islas cercanas.
+:olivia:default:Un momento, detened el barco, reconozco esta isla.
+:removecutscenethirteen:
+:bg:vullemental2:
+:olivia:default:Es la isla en la que mi padre, el maestro del origami doblÃ³ a mi hermano Olly, y despuÃ©s Olly me doblÃ³ a mi.
+:olivia:default:Hey Luigi.
+:luigi:default:Buenas.
+:olivia:default:Quedaos fuera un momento, ahora vuelvo.
+:fade:vullemental2:
+:bg:vullemental3:
+:tode:default:EsplÃ©ndido, hemos visitado casi todas las islas en la carta nÃ¡utica yâ€¦
+:tode:default:â€¦Â¿la grumete ha conseguido un libro mÃ¡gico?
+:olivia:default:Este libro es mÃ¡s importante de lo que parece capitÃ¡n, me lo ha dado mi padre y es especial porque-
+:tode:default:Tu habladurÃ­a pone a dormir a mi espÃ­ritu aventurero.
+:tode:default:De cualquier maneraâ€¦
+:tode:default:Mientras la grumete estaba de visita, sospecho que he averiguado dÃ³nde residen las llaves de la torre, algo llamado â€œIsla diamanteâ€.
+:tode:default:En algÃºn lugar remoto y cercano de por aquÃ­.
+:captain:default:Creo que tendrÃ©is que mirar usando el submarino, no veo nada en tierra por aquÃ­.
+:fade:vullemental3:
+:bg:vullemental4:
+:music:4-6:
+:music:fadeIn:
+:olivia:default:Â¡Cielos, el capitÃ¡n tiene razÃ³n, aquÃ­ abajo sÃ­ que hay una isla con forma de diamante!
+:tode:default:Las llaves deben valer una inmensa fortuna si estÃ¡n guardadas tan profundamente.
+:fade:vullemental4:
+:bg:vullemental5:
+:olivia:default:Wowâ€¦ Esto es precioso.
+:tode:default:Hmmâ€¦ â€œUna joya oculta, perdida en el tiempo, durmiendo bajo las olasâ€¦â€ Brillante reputaciÃ³n si me preguntan a mÃ­.
+:olivia:default:Rojo, azul y verdeâ€¦ Â¡Igual que los agujeros para las llaves en la puerta de la Torre OceÃ¡nica!
+:tode:default:Cuenta la leyenda que esas construcciones contienen pruebas que solo el mÃ¡s fuerte, valiente y sabio puede superar.
+:fade:vullemental5:
+:bg:vullemental6:
+:olivia:default:Mario puede superarlas sin problemas, Boyfriend, Â¿Por quÃ© no vas con tu novia a explorar aquella misteriosa caverna helada? No queremos dejar ningÃºn cabo suelto.
+:bf:default:Uhh...
+:olivia:default:Â¡No te preocupes, sÃ© con certeza que tienes talento para superar cualquier obstÃ¡culo!
+:fade:vullemental6:
+:bg:vullemental7:
+:music:4-7:
+:music:fadeIn:
+:sound:sandrun:
+:narrator:default:Caminaron a travÃ©s de la caverna de hielo, el eco de sus pasos resonaban por toda el lugar.
+:bg:tear:
+:sound:altaropen:
+:narrator:default:No solo se escuchaban los pasos de Bf, Ã©l tambiÃ©n podÃ­a escuchar gruÃ±idos a lo lejos. Bf sabÃ­a que no estaba solo.
+:fade:vullemental7:
+:bg:vullemental8:
+:bf:default:Bep...
+:narrator:default:Boyfriends se pone en guardia pues los ruidos se hacen mÃ¡s y mÃ¡s presentes. Quienquiera que los estÃ© haciendo sabe de su presencia.
+:bg:vullemental9:
+:bg:tear:
+:bg:flash:
+:music:4-8:
+:music:fadeIn:
+:sound:altaropen:
+:narrator:default:De pronto un monstruo aterriza justo encima de ellos con un ruido violento.
+:bf:default:Â¡Bah!
+:narrator:default:Se trataba de uno de los papelementales de los que hablaba Olivia. Un oso polar gigante albergando el poder del hielo.
+:bg:tear:
+:bg:flash:
+:sound:altaropen:
+:narrator:default:El monstruo ruge otra vez, era su Ãºltimo aviso antes de atacar.
+:narrator:default:Boyfriend se prepara para encargarse de la bestia del Ãºnico modo que sabe.

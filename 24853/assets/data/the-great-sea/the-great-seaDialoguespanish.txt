@@ -1,0 +1,108 @@
+:music:4-1:
+:music:fadeIn:
+:bg:exploring1:
+:narrator:default:A la salida, el desierto se sentÃ­a mucho mÃ¡s caluroso. La arena morada se habÃ­a convertido en un amarillo brillante.
+:bf:default:Bep...
+:olivia:default:Wowâ€¦ esto sÃ­ es mÃ¡s apropiado para un desierto. La agujereadora debiÃ³ haber hecho un agujero en el sol.
+:bg:tear:
+:sound:altaropen:
+:prof:default:Â¡MIRAD! Â¡El altar solar se estÃ¡ abriendo!
+:fade:exploring1:
+:bg:exploring2:Un altar que Mario y Olivia habÃ­an pasado por delante antes ahora estaba abierto, dejando a la vista un tramo oscuro de escaleras.
+:prof:default:Uhhâ€¦ Mario, tÃº primero.
+:olivia:default:Solo son unas escaleras, esto no es nada comparado con un templo antiguo lleno de toads sin cara, Â¡Venga!
+:sound:sandrun:
+:fade:exploring2:
+:bg:exploring3:
+:narrator:default:Al final de la escalera se situaba una cÃ¡mara congeladora. Y en el centro, un toad atrapado en hielo.
+:prof:default:Hmmâ€¦ el pobre debe haber pasado demasiado tiempo aquÃ­ con toda esta impresionante tecnologÃ­a de refrigeraciÃ³n antigua...
+:olivia:default:Voy a intentar ayudarle, por suerte hay un cÃ­rculo de poder papelemental aquÃ­.
+:bf:default:Â¿Beep?
+:olivia:default:Â¡SÃ­! Los papelementales son bestias elementales que poseen los poderes del fuego, agua, tierra y hielo.
+:olivia:default:Aunque por culpa de mi hermano han sido doblados y corrompidos, pero por suerte he aprendido a doblarme en algunos de ellos, Â¡Observa!
+:bg:tear:
+:sound:altaropen:
+:narrator:default:El cÃ­rculo del suelo comenzÃ³ a brillar.
+:bg:flash:
+:sound:pheonix:
+:bg:exploring4:
+:narrator:default:Olivia se doblÃ³ a sÃ­ misma en el papelemental de fuego y pudo derretir el hielo fÃ¡cilmente.
+:sound:flames:
+:narrator:default:Por un momento, Boyfriend observÃ³ aquello algo asustado.
+:music:stop:
+:sound:fallover:
+:bg:tear:
+:bg:exploring5:
+:narrator:default:El toad cayÃ³ al suelo con un chapoteo, tosiendo violentamente.
+:prof:default:Hey, Â¿EstÃ¡s bien?
+:tode:default:E-Estoyâ€¦
+:bg:flash:
+:bg:exploring6:
+:music:4-2:
+:music:fadeIn:
+:tode:default:Â¡ESPLÃ‰NDIDO! 
+:tode:default:AsÃ­ que vosotros sois los grumetes que me habÃ©is rescatado. Â¿Os hayÃ¡is contentos de echar un vistazo a vuestro capitÃ¡n despuÃ©s deâ€¦ Â¿CuÃ¡nto tiempo ha pasado?
+:tode:default:Â¿Dos dÃ­as? Â¿Diez meses?
+:olivia:default:Â¿Nuestro capitÃ¡n? No somos tu tripulaciÃ³n.
+:tode:default:Oh buenoâ€¦ En ese caso respondo con orgullo al nombre Kapâ€™lthÃ¡n Zoad, pero os ruego me llamÃ©is CapitÃ¡n T. Hoad.
+:tode:default:Mi nombre es conocido por marineros y grumetes de todos los mares, deberÃ­a sonaros incluso a vosotros, marineros de agua dulce.
+:olivia:default:No realmenteâ€¦
+:prof:default:Â¡N- NO ES POSIBLE! Â¿El bucanero del pueblo antiguo Kapâ€™lthÃ¡n Zoad? Â¿Â¡De la leyenda del Spa Marino!?
+:bf:default:Â¿Bep?
+:prof:default:De acuerdo a la leyenda, el capitÃ¡n robÃ³ la posesiÃ³n mÃ¡s valiosa del SparaÃ­so para hacer un trueque con el Rey ChampsÃ©s. El cual uhh no se lo tomÃ³ muy bien-
+:fade:exploring6:
+:bg:exploring7:
+:tode:default:Hey, no es necesario continuar con la palabrerÃ­a grumete. El rey ChampsÃ©s es asunto para otro dÃ­a, busco lo que me pertenece.
+:olivia:default:Â¿Quieres saber dÃ³nde estÃ¡ el submarino que robaste?
+:tode:default:Una vez un tesoro pirata, siempre un tesoro pirata.
+:prof:default:El Marino actualmente estÃ¡ expuesto en el Museo de Villa Toad, pero Â¿crees que podrÃ­as ayudar a mis amigos a resolver una amenaza que afecta a todo el reino?
+:tode:default:Siempre y cuando pueda quedarme con mi preciado Marino, contad con mi milenaria experiencia, Â¡al fin y al cabo un pirata siempre estÃ¡ preparado para una aventura!
+:tode:default:Aunque voy a necesitar que alguien me ponga al dÃ­a grumetes.
+:olivia:default:Sin problema.
+:prof:default:Hmmâ€¦ Supongo que aquÃ­ se separan nuestros caminos, soy un toad de templos y reliquias, el mar no es lo mÃ­o.
+:olivia:default:Olivia: Oh, es una pena profesor, pero te deseamos mucha suerte en tus exploraciones.
+:Bf:Â¡Bah Beep!
+:narrator:default:
+:fade:exploring7:
+:bg:exploring8:
+:narrator:default:En el exterior, el profesor llamÃ³ a Bf mientras Olivia informa al capitÃ¡n sobre la situaciÃ³n.
+:prof:default:Psst, hey joven.
+:bf:default:Â¿Bo?
+:prof:default:Uhmmâ€¦ Una vez que terminÃ©is vuestra travesÃ­a marÃ­tima, Â¿crees que podrÃ­as pedirle al capitÃ¡n T. Hoad que vuelva aquÃ­? Tengo que decirle algoâ€¦ 
+:prof:default:I want to tell him something...
+:bf:default:Â¡Bah!
+:prof:default:MuchÃ­simas gracias
+:fade:exploring8:
+:bg:exploring9:
+:music:4-3:
+:music:fadeIn:
+:narrator:default:El grupo entrÃ³ en la tuberÃ­a que conectaba el desierto con el Museo de Villa Toad, donde se situaba el Super Marino.
+:olivia:default:Hemos llegado. CapitÃ¡n, Â¿cÃ³mo esperas llevarte la atracciÃ³n principal del museo en pleno dÃ­a?
+:tode:default::T Ode:Sencillo grumete, agarramos al usurpador de mi Marino, les hacemos rogar sobre sus rodillas sosteniendo una espada sobre su cabeza hasta que nos lo devuelvan.
+:bf:default:Â¿Â¡Beep!?
+:tode:default:AsÃ­ se resuelven las disputas de donde yo vengo.
+:olivia:default:Â¡No podemos hacer eso!
+:fade:exploring9:
+:bg:exploring10:
+:tode:default:Contempladla grumetes, mi amado Marino, tan sÃ³lido y fiable.
+:nerdtoad:default:Â¡Oiga caballero! Â¡No sabe que estÃ¡ prohibido tocar la exposiciÃ³n principal! Â¡BÃ¡jese de ahÃ­ inmediatamente!
+:bf:default:Â¡Ba!
+:nerdtoad:default:Â¿Quieres llevarte el submarino? Â¡Pero es nuestra exhibiciÃ³n mÃ¡s visitada!
+:tode:default:Y quÃ© exhibiciÃ³n que esâ€¦
+:olivia:default:Por favor, lo necesitamos, sin Ã©l, el capitÃ¡n no podrÃ¡ ayudar a Mario a salvar a la Princesa Peach.
+:nerdtoad:default:Mmmmâ€¦ De acuerdo pero tened cuidado con Ã©l.
+:fade:exploring10:
+:bg:exploring11:
+:music:4-4:
+:music:fadeIn:
+:tode:default:Al fin me hayo reunido con mi Marino, ya podemos salir a la mar.
+:narrator:default:Un toad capitÃ¡n estaba situado al lado de su barco en el muelle de Villa Toad.
+:bf:default:Â¡Baa!
+:captain:default:Ahora no, estoy en mi descanso
+:captain:default:Espera, Â¿Mario? Oh y estÃ¡s con nuevos amigos desde esa vez.
+:captain:default:Â¿No habÃ­a un bob-omb con vosotros?
+:bg:flash:
+:bg:exploring12:
+:captain:default:Â¡Bueno, si vas a cortar mi descanso por algo importante, al menos dame algo interesante que hacer!
+:bf:default:Â¡Bah!
+:captain:default:Â¡Muy bien chico nuevo, ensÃ©Ã±ame quÃ© sabes hacer!

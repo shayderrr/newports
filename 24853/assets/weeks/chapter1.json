@@ -1,0 +1,50 @@
+{
+	"storyName": "Chapter 1",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Picnic Road",
+			"toad",
+			[
+				255,
+				87,
+				66
+			]
+		],
+		[
+			"Red Streamer Battle",
+			"picnic",
+			[
+				255,
+				87,
+				66
+			]
+		],
+		[
+			"Missile Maestro",
+			"colors",
+			[
+				255,
+				87,
+				66
+			]
+		]
+	],
+	"weekCharacters": [
+		"colors",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Chapter 1"
+}

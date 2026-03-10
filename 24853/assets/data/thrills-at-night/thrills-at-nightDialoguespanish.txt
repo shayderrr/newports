@@ -1,0 +1,85 @@
+:music:3-2:
+:music:fadeIn:
+:bg:thrillsatnight1:
+:narrator:default:Boyfriend le explica su situaciÃ³n a Olivia.
+:olivia:default:Ya veo. AsÃ­ que piensas que Mario puede arreglar a tu novia al igual que a los toads. DÃ©jame comprobar algoâ€¦
+:fade:thrillsatnight1:
+:bg:thrillsatnight2:
+:sound:sandrun:
+:olivia:default:Justo lo que pensaba, estÃ¡ grapada por aquÃ­. SegÃºn tengo entendido, Mario no puede arreglar esto, asÃ­ que se va a quedar asÃ­ para siempre.
+:bf:default:Â¿Â¡B-B-B-Beeep!?
+:bg:thrillsatnight3:
+:sound:fallover:
+:bg:tear:
+:narrator:default:Boyfriend no pudo sino tirarse al suelo y sollozar tras oÃ­r esas palabras.
+:olivia:default:Â¡Oh no, Hey! Â¡No llores!
+:music:3-3:
+:music:fadeIn:
+:bg:thrillsatnight4:
+:bg:flash:
+:sound:hug:
+:olivia:default:Â¡No te preocupes, seguro que hay algo que podamos hacer!
+:olivia:default:Uhhâ€¦ PodrÃ­amos traeros con nosotros, estamos intentando parar a mi hermano para que devuelva todo a la normalidadâ€¦
+:bf:default:...
+:bf:default:Â¿Beep?
+:olivia:default:Â¡Claro! Seguro que a Mario y al profesor no les importa que nos acompaÃ±Ã©is Â¿cierto?
+:prof:default:No veo por quÃ© no. Toda ayuda es bienvenida.
+:olivia:default:Â¡Genial!
+:prof:default: Bueno, Â¿Vamos entrando al templo de una vez? Me muero por ver lo que hay dentro.
+:fade:thrillsatnight4:
+:bg:thrillsatnight5:
+:narrator:default:Ahora, siendo un grupo de 5, caminan hacia el templo mientras el cielo oscuro del desierto se cierne sobre ellos.
+:olivia:default:AÃºn no se muy bien quÃ© le ha pasado al solâ€¦ Â¿No se supone que los desiertos son soleados y eso?
+:prof:default:De acuerdo a mis observaciones ese suele el caso, tendremos que investigar el agujero del cielo mÃ¡s adelante
+:narrator:default:Sin perder otro segundo, se adentran en el templo.
+:music:3-4:
+:music:fadeIn:
+:fade:thrillsatnight5:
+:bg:thrillsatnight6:
+:sound:sandrun:
+:prof:default:Cielos esto es fascinanteâ€¦ Debe de tener miles de aÃ±osâ€¦
+:prof:default:Y estos muralesâ€¦ Deben ser obra del pueblo antiguoâ€¦ Â¿DÃ³nde estÃ¡ mi diÃ¡logo? Tengo que documentarlo todo.
+:olivia:default:Eso estÃ¡ muy bien peroâ€¦ Me pregunto a quiÃ©n habrÃ¡ puesto mi hermano a proteger la serpentina.
+:prof:default:Oh claroâ€¦ Supongo que salvar el mundo es mÃ¡s importante.
+:fade:thrillsatnight6:
+:bg:thrillsatnight7:
+:music:3-5:
+:music:fadeIn:
+:narrator:default:Eventualmente llegan a lo que parece ser una sala de discoteca enorme.
+:prof:default:Â¿Al pueblo antiguo le gustaba salir de fiesta?
+:narrator:default:De pronto una voz estruendosa se pudo oÃ­r desde detrÃ¡s de la puerta del piso de arriba.
+:bg:tear:
+:bg:flash:
+:sound:screenshake:
+:devil:blackened:Â¡NO NO NO! Â¿PERO QUÃ‰ ES ESO? PENSABA QUE EL REY ME DARÃA SOLDADOS CON UN GUSTO MUSICAL DECENTE.
+:olivia:default:Ni idea de si el pueblo antiguo salÃ­a de fiesta, pero quien sea esa, seguro que sÃ­ lo hace.
+:olivia:default:Â¡Espera, si es una subordinada de mi hermano, eso significa que la serpentina estÃ¡ ahÃ­ dentro con ella!
+:bg:tear:
+:bg:flash:
+:sound:screenshake:
+:devil:blackened:Â¡QUIERO BAILAR, PERO NO PIENSO SALIR HASTA QUE LA PISTA ESTÃ‰ LLENA!
+:bg:tear:
+:bg:flash:
+:sound:screenshake:
+:devil:blackened:Â¡Y POR FAVOR QUE CUALQUIERA DE VOSOTROS CAMBIE ESE BODRIO DE MÃšSICA YA!
+:fade:thrillsatnight7:
+:bg:thrillsatnight8:
+:narrator:default:El grupo se separa. Boyfriend se queda a elegir una canciÃ³n nueva mientras Mario se va a por gente para rellenar la pista de baile.
+:bf:default:Beep Boop bada boo.
+:dj:default:Lo siento tÃ­oâ€¦ No te entiendoâ€¦
+:narrator:default:Mario y el Profesor Toad encontraron un grupo de toads sin cara que comenzaron a reaccionar a la mÃºsica de fondo.
+:prof:default:Marioâ€¦ estos toads me dan mala espinaâ€¦
+:bg:thrillsatnight9:
+:sound:fallover:
+:bg:tear:
+:music:3-6:
+:music:fadeIn:
+:narrator:default:Cuando Mario llegÃ³ con el grupo de toads, empezaron a bailar y a llevarse a Bf a la pista al ritmo de la mÃºsica.
+:bg:tear:
+:bg:flash:
+:bf:default:Â¡Â¡Beep!!
+:olivia:default:Â¿Â¡QuÃ© estÃ¡n haciendo!?
+:dj:default:Creo que ese de ahÃ­ le estÃ¡ desafiando a cantarâ€¦
+:olivia:default:Â¿Por quÃ© quieren que haga eso?
+:prof:default:Eso no es importante ahora, tenemos que mantenerlos aquÃ­ durante el tiempo suficiente para sacar de su sala al guardiÃ¡n de la serpentina.
+:olivia:default:Tienes razÃ³n peroâ€¦ Â¡Boyfriend, ten cuidado!

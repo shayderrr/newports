@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shopbuttons.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="autumn selected0000" x="1" y="1" width="793" height="137"/>
+	<SubTexture name="autumn unselected0000" x="795" y="1" width="793" height="137"/>
+	<SubTexture name="bluestreamer selected0000" x="1" y="139" width="793" height="137"/>
+	<SubTexture name="bluestreamer unselected0000" x="795" y="139" width="793" height="137"/>
+	<SubTexture name="max selected0000" x="1" y="277" width="793" height="137"/>
+	<SubTexture name="max unselected0000" x="795" y="277" width="793" height="137"/>
+	<SubTexture name="autumn outofstock0000" x="1" y="415" width="793" height="137"/>
+	<SubTexture name="bluestreamer outofstock0000" x="1" y="415" width="793" height="137"/>
+	<SubTexture name="max outofstock0000" x="1" y="415" width="793" height="137"/>
+	<SubTexture name="shogun outofstock0000" x="1" y="415" width="793" height="137"/>
+	<SubTexture name="toadbbq outofstock0000" x="1" y="415" width="793" height="137"/>
+	<SubTexture name="shogun selected0000" x="795" y="415" width="793" height="137"/>
+	<SubTexture name="shogun unselected0000" x="1" y="553" width="793" height="137"/>
+	<SubTexture name="toadbbq selected0000" x="795" y="553" width="793" height="137"/>
+	<SubTexture name="toadbbq selected0001" x="795" y="553" width="793" height="137"/>
+	<SubTexture name="toadbbq selected0002" x="795" y="553" width="793" height="137"/>
+	<SubTexture name="toadbbq selected0003" x="795" y="553" width="793" height="137"/>
+	<SubTexture name="toadbbq unselected0000" x="1" y="691" width="793" height="137"/>
+</TextureAtlas>

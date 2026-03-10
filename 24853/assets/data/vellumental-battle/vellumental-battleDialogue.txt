@@ -1,0 +1,68 @@
+:cutscenethirteen:
+:music:4-5:
+:music:fadeIn:
+:narrator:default:After a quick jingle, they hopped on the boat and attached the submarine to the back.
+:narrator:default:Following the purple streamer, it lead to a large sea tower, the entrance locked behind a door.
+:narrator:default:The lock required three spherical keys to open the door to the tower.
+:narrator:default:The party sailed past nearby islands, searching for where they could be...
+:olivia:default:Wait, stop right here! I recognize this one.
+:removecutscenethirteen:
+:bg:vullemental2:
+:olivia:default:Yeah! It's the house the Origami Craftsman first folded Olly and I!
+:olivia:default:Hey Luigi.
+:luigi:default:Sup
+:olivia:default:You guys stay out here, we'll be right back.
+:fade:vullemental2:
+:bg:vullemental3:
+:tode:default:...Alrighty we've visited almost every island here.
+:tode:default:...The lass has some little magic book?
+:olivia:default:This book is more important than you think, Captain. It's actually a special kind of book that-
+:tode:default:Blah blah blah... you're boring me to sleep with the details...
+:tode:default:Anyway...
+:tode:default:While she was out on her boring visit I think I figured out where the stone keys may lie.
+:tode:default:Just somewhere 'round here.
+:captain:default:You might want to check using the sub, I'm not seeing any land up here.
+:fade:vullemental3:
+:bg:vullemental4:
+:music:4-6:
+:music:fadeIn:
+:olivia:default:Oh goodness the captain was right! There IS something down here!
+:tode:default:These stones must be worth a fortune if they're locked up that tightly...
+:fade:vullemental4:
+:bg:vullemental5:
+:olivia:default:Wow... this is pretty~
+:tode:default:Hmm, a hidden jewel, lost to time, slumbering beneath the wavesâ€¦ quite the reputation if ye ask me!
+:olivia:default:Red... blue... green... Ah! Just like the holes in the door!
+:tode:default:Aye, those buildings seem to be the ancient trials! It's said that only the bravest, wisest, and strongest heroes can pass them.
+:fade:vullemental5:
+:bg:vullemental6:
+:olivia:default:Then Mario will take on the trials! Boyfriend, why don't you take your friend and explore the Icy Mountains. We don't want to leave any stone untouched!
+:bf:default:Uhh...
+:olivia:default:Don't worry, there's nothing to be afraid of, I'm sure you got this!
+:fade:vullemental6:
+:bg:vullemental7:
+:music:4-7:
+:music:fadeIn:
+:sound:sandrun:
+:narrator:default:They walked through the ice cavern, their steps echoing through the empty chamber.
+:bg:tear:
+:sound:altaropen:
+:narrator:default:Mixed in with the steps however, was the occasional ungodly roar. Boyfriend knew he wasn't alone...
+:fade:vullemental7:
+:bg:vullemental8:
+:bf:default:Bep...
+:narrator:default:The noises grew louder. It appeared to be aware of their presence. Boyfriend shivers, unable to tell if it's the cold or fear.
+:bg:vullemental9:
+:bg:tear:
+:bg:flash:
+:music:4-8:
+:music:fadeIn:
+:sound:altaropen:
+:narrator:default:A large crash sounds as the monster lands right behind them.
+:bf:default:Bah!
+:narrator:default:It was one of those vellumentals Olivia had warned them about. A large folded polar bear, ready to shred them to pieces.
+:bg:tear:
+:bg:flash:
+:sound:altaropen:
+:narrator:default:It violently roared again, it's last warning that it was about to attack.
+:narrator:default:Boyfriend readied himself to take out the beast the only way he knew how...

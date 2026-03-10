@@ -1,0 +1,25 @@
+:music:1-4:
+:music:fadeIn:
+:bg:elastic7:
+:rubber:default:HÃƒ!? ISSO NÃƒO ESTAVA NO ROTEIRO SEU VERME!
+:rubber:default:ERA PRA VOCÃŠ SER DERROTADO! VOCÃŠ NÃƒO ME OUVIU!?
+:narrator:default:Ele parece estar bem mais furioso do que antes.
+:music:stop:
+:bg:elastic8:
+:bg:tear:
+:Narrator:Parece que as emoÃ§Ãµes dele sairam do controle, fazendo com que os elÃ¡sticos se rasgassem aos poucos.
+:rubber:default:GRAHH! Nem eu poderia ter esperado por esse plot twistâ€¦ As cortinas se fecham comigo.
+:rubber:default:Bem... atÃ© mais, seu rato sujismundo! 
+:sound:explosion:
+:bg:elastic9:
+:bg:tear:
+:narrator:default:O inimigo entÃ£o cai, fazendo com que Girlfriend caia nos braÃ§os de Boyfriend.
+:fade:elastic9:
+:bg:elastic10:
+:music:2-2:
+:music:fadeIn:
+:gondol:default:Ai meu deus Boyfriend, mas que performance! Serei mais cauteloso da prÃ³xima vez que cantarmos juntosâ€¦
+:gondol:default:Enfim, nÃ£o estavamos indo para o deserto escaldante? Ou vocÃª quer passear pelo parque da Shogun Studios por mais um tempo?
+:bf:default:Bep...
+:gondol:default:Ah sim, o Marioâ€¦ heh.
+:gondol:default:Bom, pois sobe aÃ­ de novo!

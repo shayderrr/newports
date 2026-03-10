@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UI_assets.png">
+<!-- Created with Adobe Animate version 21.0.0.35450 -->
+<!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="Easy0000" x="0" y="0" width="179" height="179"/>
+<SubTexture name="Hard0000" x="179" y="0" width="179" height="179"/>
+<SubTexture name="Normal0000" x="359" y="0" width="179" height="179"/>
+<SubTexture name="downarrowidle0000" x="0" y="179" width="65" height="65"/>
+<SubTexture name="downarrowpress0000" x="0" y="179" width="65" height="65"/>
+<SubTexture name="downarrowpress0001" x="0" y="179" width="65" height="65" frameX="0" frameY="-4" frameWidth="65" frameHeight="65"/>
+<SubTexture name="leftarrowidle0000" x="65" y="179" width="84" height="99"/>
+<SubTexture name="leftarrowpress0000" x="65" y="179" width="84" height="99" frameX="-2" frameY="0" frameWidth="84" frameHeight="99"/>
+<SubTexture name="leftarrowpress0001" x="65" y="179" width="84" height="99"/>
+<SubTexture name="lock0000" x="0" y="279" width="474" height="179"/>
+<SubTexture name="rightarrowidle0000" x="474" y="279" width="84" height="99"/>
+<SubTexture name="rightarrowpress0000" x="474" y="279" width="84" height="99" frameX="0" frameY="0" frameWidth="84" frameHeight="99"/>
+<SubTexture name="rightarrowpress0001" x="474" y="279" width="84" height="99" frameX="3" frameY="0" frameWidth="84" frameHeight="99"/>
+<SubTexture name="uparrowidle0000" x="0" y="458" width="63" height="63" frameX="0" frameY="-2" frameWidth="63" frameHeight="66"/>
+<SubTexture name="uparrowpress0000" x="0" y="458" width="63" height="63" frameX="0" frameY="-2" frameWidth="63" frameHeight="66"/>
+<SubTexture name="uparrowpress0001" x="0" y="458" width="63" height="63" frameX="0" frameY="0" frameWidth="63" frameHeight="66"/>
+</TextureAtlas>

@@ -1,0 +1,105 @@
+:music:4-1:
+:music:fadeIn:
+:bg:exploring1:
+:narrator:default:ApÃ³s sairem, o deserto parecia mais claro. A areia de aparÃªncia roxa agora Ã© um amarelo claro!
+:bf:default:Bep...
+:olivia:default:Pois Ã©... estÃ¡ definitivamente mais clara do que antes. Aquele estacionÃ¡rio deve ter aberto um buraco no cÃ©u!
+:bg:tear:
+:sound:altaropen:
+:prof:default:GENTE OLHA, acho que o altar do sol estÃ¡ abrindo!
+:fade:exploring1:
+:bg:exploring2:Um altar no qual Mario e Olivia haviam encontrado antes estÃ¡ aberto agora, expondo uma escadaria escurecida.
+:prof:default:Uhh, bem, isso nÃ£o Ã© nada assustadorâ€¦ Mario, vocÃª vai na frente. 
+:olivia:default:Ã‰ sÃ³ uma escadaria. Isso Ã© nada comparado a um templo anciente cheio de toads sem rostos. Vamos nessa! 
+:sound:sandrun:
+:fade:exploring2:
+:bg:exploring3:
+:narrator:default:No final da escadaria, havia uma sala mais fria. E no centro, um toad coberto de gelo.
+:prof:default:Oh nÃ£o, o pobre deve ter passado tempo demais nessa sala com toda essa tecnologia de resfriamento ancienteâ€¦
+:olivia:default:Oh minha nossa, me deixe tentar ajudÃ¡-lo, por sorte tem um pergaminho de cÃ­rculo de fogo por ali.
+:bf:default:Beep?
+:olivia:default:Ã‰! Pergaminhos sÃ£o elementais que podem dominar o poder de seus elementos respectivos.
+:olivia:default:PorÃ©m, eles foram corrompidos e tornados em origami pelo meu irmÃ£o, Olly. Mas por sorte eu posso dar um jeitinho! Veja! 
+:bg:tear:
+:sound:altaropen:
+:narrator:default:O CÃ­rculo comeÃ§ou a brilhar.
+:bg:flash:
+:sound:pheonix:
+:bg:exploring4:
+:narrator:default:Olivia se dobrou dentro do pergaminho de fogo e derreteu o gelo com facilidade.
+:sound:flames:
+:narrator:default:Bf observou em choque e medo.
+:music:stop:
+:sound:fallover:
+:bg:tear:
+:bg:exploring5:
+:narrator:default:O toad caiu no chÃ£o. Ele caiu no chÃ£o e tossiu violentamente.
+:prof:default:Ei, vocÃª estÃ¡ bem? 
+:tode:default:Eu- Eu me sintoâ€¦ 
+:bg:flash:
+:bg:exploring6:
+:music:4-2:
+:music:fadeIn:
+:tode:default:ESPLÃŠNDIDO!! Ya-har! 
+:tode:default:Vejo que me livrastes, estÃ¡s feliz em contemplar seu capitÃ£o novamente apÃ³sâ€¦ Uhhâ€¦ quanto tempo se passou? 
+:tode:default:Dois dias? Dez meses? 
+:olivia:default:Nosso capitÃ£o? NÃ³s nÃ£o somos sua tripulaÃ§Ã£o-
+:tode:default:Oh. Bem, me chamo Kaphi'taÃ£o ThoÃ´d, mas todos me chamam de T. Odeâ€¦ Covardes.
+:tode:default:O nome deve ser famÃ­liar para marinheiros de Ã¡gua doce como vocÃª e sua equipe, mocinha.
+:olivia:default:Umm nÃ£o exatamenteâ€¦ 
+:prof:default:Nâ€¦ NÃƒO BRINCA! O anciente capitÃ£o dos mares T. Ode?? Das lendas de Spa Marino!?
+:bf:default:Bep?
+:prof:default:Diz a histÃ³ria de que ele roubou o submarino mais valioso do spa para trocÃ¡-lo pela coroa de Shroomses! No qual, uhh, nÃ£o gostou muito disso e-
+:fade:exploring6:
+:bg:exploring7:
+:tode:default:Certo rapaz, jÃ¡ basta! NÃ£o importa o que o velho Shroomses fez! O que eu quero Ã© o que me pertence.
+:olivia:default:...Quer dizer o submarino que vocÃª roubou?
+:tode:default:Yahar moÃ§a! O tesouro de um pirata nunca deixa de ser um tesouro de um pirata!
+:prof:default:EstÃ¡ localizado no MusÃ©e Champignon mas tem como vocÃª ajudar meus amigos na aventura deles?
+:tode:default:Hmm claro! Um pirata estÃ¡ sempre disposto a se aventurar! Com a condiÃ§Ã£o de que eu fique com meu navio no final eu te darei uma mÃ£ozinha.
+:tode:default:SÃ³ me dÃª um resumo lÃ¡ fora, garota.
+:olivia:default:Claro! 
+:prof:default:Bom, acho melhor voltar a conferir esses templos ancientes. Parece que aqui Ã© aonde nÃ³s nos partimos.
+:olivia:default:Oh, isso Ã© uma pena Professor, mas desejamos a vocÃª boa sorte em suas exploraÃ§Ãµes.
+:fade:exploring7:
+:bg:exploring8:
+:narrator:default:Enquanto isso, lÃ¡ fora, o professor chamou a atenÃ§Ã£o do BF enquanto Olivia explicou a situaÃ§Ã£o para o anciente.
+:prof:default:Ei, espera garoto.
+:bf:default:Bo?
+:prof:default:VocÃª sabe se quando acabar com tudo isso, vocÃª poderia avisar ao Kaphi'taÃ£o ThoÃ´d para que ele volte aqui? Preciso o dizer algoâ€¦ 
+:bf:default:Bah!
+:prof:default:Fico agradecido.
+:fade:exploring8:
+:bg:exploring9:
+:music:4-3:
+:music:fadeIn:
+:narrator:default:O grupo entrou em um cano, conectando mundos juntos. E tambÃ©m aconteceu de ser o museu que continha o submarino de T. Ode.
+:olivia:default:Okay CapitÃ£o... como vocÃª acha que vai to levar a atraÃ§Ã£o principal dessa exposiÃ§Ã£o em plena luz do sol?
+:tode:default:Escute, nÃ³s entramos, entramos lÃ¡ aos tiros e fazemos eles implorar por suas vidas em seus joelhos apontando uma espada em suas cabeÃ§as atÃ© te darem o artefato desejado.
+:bf:default:Beep?!
+:tode:default:Daonde eu venho nÃ³s faziamos assim.
+:olivia:default:NÃ£o podemos fazer isso!
+:fade:exploring9:
+:bg:exploring10:
+:tode:default:Ai estÃ¡, meu glorioso submarino, nÃ£o Ã© uma beleza?
+:nerdtoad:default:H-Hey! Saia jÃ¡ daÃ­! NÃ£o Ã© permitido encostar nesta exposiÃ§Ã£o. Eu acabei de limpÃ¡-la!
+:bf:default:Ba!
+:nerdtoad:default:VocÃªs querem nosso submarino? Mas ele Ã© nossa exibiÃ§Ã£o mais valiosa!
+:tode:default:E que exibiÃ§Ã£o ela Ã©.
+:olivia:default:Escute, a gente precisa dela. O CapitÃ£o nÃ£o pode ajudar o Mario a salvar a Princesa Peach sem ela.
+:nerdtoad:default:Okayâ€¦ tÃ¡ certo, sÃ³ tomem cuidado com ela.
+:fade:exploring10:
+:bg:exploring11:
+:music:4-4:
+:music:fadeIn:
+:tode:default:Yarr! Conseguimos rapazes, agora podemos partir para o porto!
+:narrator:default:Um toad CapitÃ£o estava em frente de seu navio.
+:bf:default:Baa!
+:captain:default:NÃ£o, estou no meu intervalo, vai ter que esperar.
+:captain:default:Espera- Ã© vocÃª Mario!? Oh, e me parece que estÃ¡ com novos amigos dessa vez!
+:captain:default:SÃ³ me pergunto o que houve com aquele bob-ombâ€¦
+:bg:flash:
+:bg:exploring12:
+:captain:default:Bom, se for pra vocÃª cortar meu intervalo pra salvar o mundo, pelo menos faÃ§a isso com estilo.
+:bf:default:Bah!
+:captain:default:Beleza entÃ£oâ€¦ Me mostre o que tem!

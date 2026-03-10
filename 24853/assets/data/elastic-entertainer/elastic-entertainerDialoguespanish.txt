@@ -1,0 +1,45 @@
+:music:2-2:
+:music:fadeIn:
+:bg:elastic1:
+:gondol:default:Â¡Impresionante amigo! Hace tiempo que no me encontraba con alguien con una voz como la tuya.
+:bf:default:Â¡Beep!
+:gondol:default:Nos estamos acercando a donde dejÃ© a Mario. Se fue en bÃºsqueda de-
+:music:stop:
+:rubber:blackened:Â¿Â¡MARIO!?
+:sound:rubberypunch:
+:sound:boatcrack:
+:bg:elastic2:
+:bg:flash:
+:bg:tear:
+:sound:waterpour:
+:music:1-4:
+:music:fadeIn:
+:narrator:default:De pronto, un monstruo de gomas elÃ¡sticas saltÃ³ encima del bote y agarrÃ³ a Girlfriend, enviando a Bf y al toad al suelo mÃ¡s cercano.
+:bf:default:Â¿Â¡BAH!?
+:sound:fallover:
+:bg:elastic3:
+:bg:tear:
+:bf:default:Â¡Bo!
+:rubber:default:Â¿Te refieres a ese enclenque que se ATREVIÃ“ a dispararme fuera de MI escenario durante MI gran debut? 
+:rubber:default:Voy a necesitar una nueva audiencia para mi segundo espectÃ¡culo, y vosotros tres vais a quedar perfectos en mi auditorioâ€¦
+:fade:elastic3:
+:bg:elastic4:
+:bf:default:Beep-
+:rubber:default:Te vas a enterar pequeÃ±oâ€¦
+:fade:elastic4:
+:bg:elastic5:
+:narrator:default:De pronto, el micrÃ³fono de Boyfriend despertÃ³ algo dentro del monstruo obsesionado con el espectÃ¡culo.
+:rubber:default:Oohâ€¦ AsÃ­ que otro artistaâ€¦ Â¿Veo que te gusta mucho cantar y bailar eh?
+:bf:default:Bep...
+:rubber:default:Â¿Quieres saber quÃ© funciona perfectamente con eso?
+:bg:hide:
+:sound:breaker:
+:bg:elastic6:
+:rubber:default:Â¡ACCIÃ“N DRAMÃTICA!
+:rubber:default:Yo, el villano, he secuestrado a tu amada y estÃ¡s obligado a cantar por vuestra libertad.
+:rubber:default:Pero aquÃ­ viene el giro de guiÃ³nâ€¦ Â¡VOSOTROS NO GANÃIS EN ESTA HISTORIA!
+:bf:default:Â¿Â¡BEEP!?
+:rubber:default:Â¡JAJAJAJA! Â¿CELOSO DE MI NARRACIÃ“N?
+:rubber:default:A VER QUÃ‰ PUEDES HACER ENCLENQUE.
+
+

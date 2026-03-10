@@ -1,0 +1,26 @@
+:bg:missile1:
+:music:1-2:
+:music:fadeIn:
+:narrator:default:ApÃ³s Boyfriend ter derrotado seus inimigos eles transformaram-se em moedas.
+:narrator:default:Boyfriend continuou com pressa.
+:fade:missile1:
+:bg:missile2:
+:narrator:default:Aos pÃ©s da Montanha Vista Alta, o par avistou um telefÃ©rico que havia acabado de retornar. Significando que â€œMarioâ€ nÃ£o deve estar tÃ£o longe.
+:fade:missile2:
+:bg:missile3:
+:narrator:default:Eles seguiram o caminho ao telefÃ©rico sem muitos problemas.
+:bg:hide:
+:cutsceneten:
+:music:1-4:
+:music:fadeIn:
+:colors:blackened:PARE!! 
+:bf:default:Waaah!!
+:narrator:default:Um pacote fantasma de lÃ¡pis coloridos se torna visÃ­vel diante do par.
+:colors:default:Que peninha! Esse telefÃ©rico estÃ¡ quebradoâ€¦
+:colors:default:Eu nÃ£o consigo acreditar que o Mario achou que poderia simplesmente entrar aqui e desembrulhar aquela fita vermelha!
+:colors:default:Usando meus prÃ³prios mÃ­sseis contra mim! Um absurdo completo!
+:colors:default:Ahh aquele anÃ£ozinho peludo vermelho... ele achou mesmo que eu tinha sido derrotado!
+:colors:default:JÃ¡ sei! Eu preciso liberar minha raiva atravÃ©s da arte!
+:colors:default:E vocÃª me parece uma tela excelenteâ€¦
+:bf:default:B-bwah?!
+:colors:default:Fique paradinho, chegou a hora de transformÃ¡-lo em uma obra de arte!

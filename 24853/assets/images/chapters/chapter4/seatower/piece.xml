@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="piece.png"><SubTexture name="piece idle0000" x="0" y="0" width="2193" height="1540" frameX="0" frameY="0" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0001" x="4064" y="3983" width="2053" height="219" frameX="-58" frameY="0" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0002" x="0" y="4363" width="2053" height="754" frameX="-58" frameY="0" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0003" x="0" y="3080" width="2053" height="1283" frameX="-59" frameY="0" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0004" x="2193" y="0" width="1983" height="1540" frameX="-66" frameY="0" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0005" x="0" y="1540" width="2011" height="1540" frameX="-100" frameY="0" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0006" x="2053" y="3080" width="2011" height="1159" frameX="-100" frameY="0" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0007" x="4176" y="0" width="2011" height="1380" frameX="-100" frameY="0" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0008" x="2011" y="1540" width="2011" height="1382" frameX="-100" frameY="-158" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0009" x="4176" y="1380" width="2011" height="1171" frameX="-100" frameY="-369" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0010" x="4064" y="3080" width="2011" height="903" frameX="-100" frameY="-637" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0011" x="2053" y="4363" width="1542" height="656" frameX="-569" frameY="-884" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0012" x="4176" y="2551" width="806" height="381" frameX="-569" frameY="-1159" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0013" x="4982" y="2551" width="423" height="142" frameX="-724" frameY="-1398" frameWidth="2193" frameHeight="1540" />
+<SubTexture name="piece idle0014" x="0" y="0" width="2193" height="1540" frameX="0" frameY="0" frameWidth="2193" frameHeight="1540" />
+</TextureAtlas>

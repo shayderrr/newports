@@ -1,0 +1,39 @@
+:music:2-2:
+:music:fadeIn:
+:bg:yellow1:
+:narrator:default:Eles finalmente chegaram a frente de uma caverna
+:gondol:default:Beleza! Essa Ã© a parada.
+:bf:default:Beep Bo!
+:gondol:default:Tchauzinho! Tentem nÃ£o se meterem em confusÃ£o!
+:fade:yellow1:
+:bg:yellow2:
+:music:3-1:
+:music:fadeIn:
+:narrator:default:Ao longo do caminho, BF atropeÃ§a em uma pedra.
+:narrator:default:Ele rapidamente se levanta e observa a cratera no chÃ£o, se perguntando o que pode ter acontecidoâ€¦
+:narrator:default:Ele segura o braÃ§o de sua namorada e segue adiante com confianÃ§a.
+:music:3-2:
+:music:fadeIn:
+:fade:yellow2:
+:bg:yellow3:
+:narrator:default:Dentro das minas eles conseguiram um carro bota para atravessar o nÃ£o tÃ£o comum deserto escuro.
+:narrator:default:Parece que havia um enorme buraco no cÃ©u onde o Sol ficava, causando o deserto ficar muito mais frio e escuro.
+:narrator:default:Boyfriend avista oque aparenta ser uma fita amarela no cÃ©u.
+:narrator:default:Ela ainda estava intacta e presa em algum tipo de templo anciÃ£o.
+:fade:yellow3:
+:bg:yellow4:
+:narrator:default:Mas Boyfriend logo parou, jÃ¡ que outro origami estava em seu caminho. Ele depressa pulou para lidar com a ameaÃ§a
+:olivia:default:Oh?
+:fade:yellow4:
+:bg:yellow5:
+:olivia:default:OlÃ¡! Meu nome Ã© Olivia!
+:bf:default:Bah...?
+:olivia:default:NÃ£o nÃ£o, eu nÃ£o sou um soldado grampeado. Na verdade eu estive junto do Mario jÃ¡ faz um tempinho.
+:bf:default:Bah bee-oh?! 
+:olivia:default:Ã‰ claro! No momento ele estÃ¡ em uma batalha entÃ£o estou esperando ele e professor voltaremâ€¦ 
+:narrator:default:Ela suspira.
+:olivia:default:Ah- Espera, seu microfoneâ€¦ 
+:olivia:default:VocÃª gosta de cantar?
+:bf:default:Beep Boo.
+:olivia:default:Yay~ Geralmente nÃ£o tem muita gente com quem eu possa cantar, quer cantar comigo enquanto esperamos?
+:bf:default:Bop.

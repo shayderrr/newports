@@ -1,0 +1,12 @@
+:bg:missile4:
+:music:1-1:
+:music:fadeIn:
+:colors:default:Â¡ESTO ES RIDÃCULO!
+:colors:default:Â¡CÃ“MO ES POSIBLE QUE ME HAYAN DERROTADO DOS ENANOS SEGUIDOS! Â¡SOY UN ARTISTA DE RENOMBRE!
+:colors:default:Â¡ME LAS PAG-...!
+:bg:white:
+:fade:missile4:
+:narrator:default:El artista frustrado desapareciÃ³ con un brillo cegador.
+:bg:missile5:
+:narrator:default:Boyfriend se sienta en la cabina mientras se siente vacÃ­o al no estar acompaÃ±ado de su novia como siempre.
+:narrator:default:Pero sabe que existe alguna esperanza en alguien llamado Mario, asÃ­ que continÃºa su camino hacia el Monte del OtoÃ±o.

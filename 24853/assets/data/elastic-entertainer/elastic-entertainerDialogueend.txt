@@ -1,0 +1,25 @@
+:music:1-4:
+:music:fadeIn:
+:bg:elastic7:
+:rubber:default:WHAT!? THAT WASN'T IN THE SCRIPT YOU MAGGOT.
+:rubber:default:YOU WERE SUPPOSED TO LOSE! WERE YOU NOT LISTENING TO ME!?
+:narrator:default:They appeared to be even more furious than before.
+:music:stop:
+:bg:elastic8:
+:bg:tear:
+:narrator:It seemed that their emotions had gotten out of control, causing the rubber bands to start ripping apart.
+:rubber:default:GRAHH! The curtain closes on me...
+:rubber:default:Well... Farewell, you insufferable rat!
+:sound:explosion:
+:bg:elastic9:
+:bg:tear:
+:narrator:default:The fiend then exploded, sending Girlfriend into Boyfriend's arms.
+:fade:elastic9:
+:bg:elastic10:
+:music:2-2:
+:music:fadeIn:
+:gondol:default:Wow, what a performance! Iâ€™ll be careful next time we sing togetherâ€¦
+:gondol:default:Anyways, aren't we heading to the sandpaper desert? Or do you wanna hang out here in the Shogun Studios theme park for a while?
+:bf:default:Bep...
+:gondol:default:Oh right, Mario... heh.
+:gondol:default:Well hop back in!

@@ -1,0 +1,32 @@
+:bg:tape10:
+:bg:tear:
+:bg:flash:
+:sound:explosion:
+:music:4-end:
+:music:fadeIn:
+:narrator:default:ApÃ³s aquilo, o autocolante madreiro explodiu como de costume, tremendo o chÃ£o ao seu redor.
+:bg:tear:
+:olivia:default:Â¡MMHNNGGGGG!
+:bf:default:Â¡Bee!
+:fade:tape10:
+:bg:tape11:
+:bg:tear:
+:olivia:default:Â¡Â¡MHHGG!!
+:olivia:default:Ah meu deus! Finalmente, obrigada Boyfriend! Foi horrÃ­vel nÃ£o conseguir me mexerâ€¦
+:olivia:default:Mas olha sÃ³! VocÃª acabou com aquela coisa, bom trabalho! Acho que tambÃ©m podemos acabar com a fita sem problemas.
+:fade:tape11:
+:bg:tape12:
+:bg:tear:
+:narrator:default:Mario acabou com o ponto fraco enquanto Boyfriend desmaiava. Ele estava exausto por hoje.
+:bf:default:bEehhh...
+:olivia:default:Isso nÃ£o me parece saudÃ¡velâ€¦ precisamos descansar em algum lugar. Mas eu nÃ£o faÃ§o ideia de se temos tempoâ€¦
+:narrator:default:Conforme a fita era rasgada em pedaÃ§os, o chÃ£o comeÃ§ou a tremer.
+:olivia:default:Uhhâ€¦
+:fade:tape12:
+:bg:tape13:
+:bg:flash:
+:narrator:default:Um raio de luz emergiu de repente dos cÃ©us e os levantou atÃ© lÃ¡.
+:olivia:default:Ei! O que tÃ¡ acontecendoâ€¦
+:bf:default:Â¿Beh?..
+:gf:default:...
+:gf:default:hm...

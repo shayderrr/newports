@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": null,
+		"player1": "bf",
+		"player2": "Toad",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set GF Speed",
+						"3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-origami",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Picnic Road"
+	}
+}

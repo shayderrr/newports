@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "GF Dancing Beat",
+	"position": [
+		400,
+		200
+	],
+	"scale": 0.45,
+	"image": "gf_origami",
+	"flipX": false
+}

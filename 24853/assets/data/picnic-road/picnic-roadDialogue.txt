@@ -1,0 +1,22 @@
+:bg:picnic1:
+:music:1-1:
+:music:fadeIn:
+:narrator:default:It's the day of the Origami Festival. Boyfriend and his girlfriend were invited to the event. 
+:narrator:default:However, this day was different. When they arrived, Girlfriend looked strange. Something must have happened on the wayâ€¦
+:narrator:default:Boyfriend holds Girlfriend by her arm, guiding her to town and hoping that someone could help.
+:fade:picnic1:
+:bg:picnic2:
+:narrator:default:Entering Toad Town however was equally as weird. It was far too quiet for a festival, something was definitely wrong.
+:narrator:default:They made their way onto the unfamiliar path of Picnic Road.
+:fade:picnic2:
+:bg:picnic3:
+:music:1-2:
+:music:fadeIn:
+:toad:default:Hey!
+:bf:default:B-bah?
+:toad:default:I recognize you from the last festival! Boyfriend, right? Remember when I absolutely destroyed you with my sick clarinet skills last time? 
+:bf:default:Bo...?
+:toad:default:Oh. Well... maybe a song would jog your memory?
+:bf:default:Beep... Ba!
+:toad:default:C'mon... just one quick song?
+:bf:default:Bop...

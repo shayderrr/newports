@@ -1,0 +1,24 @@
+:music:2-1:
+:music:fadeIn:
+:bg:eddy1:
+:gondol:default:Hey you, kid!
+:bf:default:Bop?
+:gondol:default:Yeah you! That was amazing! You really showed those folded dorks who's boss.
+:fade:eddy1:
+:bg:eddy2:
+:bf:default:Boop beep.
+:gondol:default:Oh, youâ€™re looking for Mario? I  remember carrying him down to the Scorching Sandpaper Desert. 
+:bf:default:Beep bo?
+:gondol:default:Sure thing mate! Hop on in and I'll give you and your folded friend a ride. Since you seem to trust this one that is...
+:music:2-river:
+:music:fadeIn:
+:fade:eddy2:
+:bg:eddy3:
+:narrator:default:The quietness of the river gave Bf a strange feeling given that heâ€™s done nothing but singing this whole trip.
+:narrator:default:Finally, he broke the silence.
+:gondol:default: Hey, kid.
+:bf:default:?
+:gondol:default:Wanna do another song? My vocal cords been' raring to go ever since mario stopped by.
+:bf:default:Boop beep!
+:gondol:default:Excellent! Singing in the rapids is gonna be interesting! 
+:gondol:default:Mind the logs and stones! Crashing into them could be fatal.

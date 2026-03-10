@@ -1,0 +1,71 @@
+:bg:tape1:
+:music:4-9:
+:music:fadeIn:
+:narrator:default:With the polar bear defeated, Boyfriend was left out of breath.
+:olivia:default:Goodness me! Boyfriend, Girlfriend, are you both okay!? We heard a huge noise right after Mario beat the trials-
+:narrator:default:Mario catches a mysterious book the bear had left behind after being defeated.
+:olivia:default:Nice catch.
+:olivia:default:Wait! It's the Ice Vellumental's Bibliofold!
+:olivia:default:You beat the last vellumental?! Awesome! 
+:olivia:default:This will help me fold into it, it may come in handy...
+:olivia:default:Let's return to the captain's sub. We managed to get the keys to the sea tower.
+:fade:tape1:
+:bg:tape2:
+:tode:default:Did ya find what ye need back there?
+:olivia:default:Yup, Mario aced those trials! And Boyfriend defeated the Ice Vellumental as well, so we have more than we set out for.
+:tode:default:Splendid! Let us sail back to that tower and take down that streamer once and for all!
+:fade:tape2:
+:bg:tape3:
+:bf:default:Bai bep!
+:tode:default:Huh? What am I doing after this?
+:tode:default:I'll be back to exploring the wonders of the ocean with me glorious sub! As I always have been...
+:bf:default:...
+:tode:default:That professor from the desert? Sure, I can make a wee little stop to visit him. He seemed like a nice guy.
+:fade:tape3:
+:bg:tape4:
+:captain:default:Hey! Nice to have you back! I thought you guys drowned or something.
+:bf:default:Boop bee-bap bo ske doop beep.
+:olivia:default:Precisely, we need to head to that sea tower A.S.A.P. Come on Captain!
+:fade:tape4:
+:bg:tape5:
+:tode:default:Aye, I think me job here is done then! Nothin' much left to explore in The Great Sea, so I'll be looking for bigger and greater oceans far, far away...
+:tode:default:Although before that, I need to make a little stop on land...
+:olivia:default:Bye T.Ode! We wish you luck on your adventure!
+:fade:tape5:
+:bg:tape6:
+:captain:default:There! I see it! Not much longer until we reach this sea tower!
+:olivia:default:Yeah! Finally, we can remove one more bond to the castle!
+:fade:tape6:
+:bg:tape7:
+:captain:default:Alright, Here we are. Good luck up there, because I sure ain't coming with you.
+:captain:default:They don't call me a SEA Captain for nothing.
+:olivia:default:Goodbye for now, Captain! And thanks for everything!
+:olivia:default:Boyfriend, Mario, can you see if the keystones fit in the holes?
+:bf:default:Yeah!
+:narrator:default:Mario nods in a lack of voice.
+:olivia:default:Let's go!
+:fade:tape7:
+:bg:tape8:
+:narrator:default:The tower extended up high. The top was hidden within the clouds. Inside, a path lead to an elevator on the exterior of the tower.
+:olivia:default:Oh my! Those poor toads! They're somehow stuck to the walls of the tower!
+:olivia:default:What kind of sticky creature is guarding this one...?
+:bf:default:Bai bep boop.
+:olivia:default:Yeah, you're right! We take down the being who did this and they will be free in no time!
+:fade:tape8:
+:bg:tape9:
+:narrator:default:The elevator eventually reached the top of the sea tower, the weak point of the streamer was finally visible.
+:olivia:default:There it is! We made it! Quickly, let's destroy the-
+:sound:altaropen:
+:bg:tear:
+:olivia:default:Hold on, what's that noise?
+:cutscenethirtyone:
+:music:1-4:
+:music:tapefadeIn:
+:tape:default:Not so fast ya rats!
+:tape:default:Mario, Olivia, and uh... Boyfriend, ey? I heard about you three from the other legion of stationaries!
+:tape:default:You got some nerve, thinking you can just come up here and destroy my streamer?
+:tape:default:Forgettaboutit!
+:olivia:default:So you were the one who stuck those toads to the tower! How come my brother hires the weirdest henchmen with the tackiest personalities?
+:tape:default:Hey you, kid. I'm not tacky, I'm sticky!
+:tape:default:That's it, it's over for you! I'm going all out!
+:tape:default:I'll start with you first, blue kid. This boutta be easy peasy.

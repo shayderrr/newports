@@ -1,0 +1,15 @@
+:music:3-6:
+:music:fadeIn:
+:sound:explosion:
+:bg:tear:
+:bg:discodevil3:
+:narrator:default:Con la agujereadora derrotada, las caras de los toads volvieron a sus respectivos dueÃ±os.
+:yellowtoad:default:Â¡Por fin! Â¡Puedo hablar otra vez!
+:yellowtoad:default:Â¡Mi cara!
+:yellowtoad:default:Â¡MuchÃ­simas gracias!
+:dj:default:Buen trabajo tÃ­o, ya podemos salir de aquÃ­.
+:olivia:default:Â¡IncreÃ­ble Bf, eres una pasada con el micrÃ³fono!
+:prof:default:No estÃ¡ mal joven, ahora podemos ir a por la serpentina y largarnos de aquÃ­.
+:olivia:default:Â¡Vamos!
+:bf:default:Â¡Beep!
+:gf:default:...

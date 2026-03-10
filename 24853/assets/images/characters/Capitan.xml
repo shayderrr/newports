@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Capitan.png"><SubTexture name="SING idle0000" x="1152" y="846" width="611" height="816" frameX="-272" frameY="-159" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING idle0001" x="1768" y="826" width="605" height="822" frameX="-270" frameY="-154" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING idle0002" x="0" y="846" width="599" height="829" frameX="-271" frameY="-146" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING idle0003" x="1172" y="0" width="596" height="832" frameX="-272" frameY="-143" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING idle0004" x="583" y="0" width="589" height="840" frameX="-275" frameY="-135" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING idle0005" x="0" y="0" width="583" height="846" frameX="-278" frameY="-130" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING idle0006" x="0" y="0" width="583" height="846" frameX="-278" frameY="-130" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING right0000" x="0" y="1675" width="786" height="821" frameX="-54" frameY="-185" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING right0001" x="1768" y="0" width="782" height="826" frameX="-59" frameY="-187" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING down0000" x="786" y="1675" width="558" height="815" frameX="-278" frameY="-237" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING down0001" x="599" y="846" width="553" height="827" frameX="-281" frameY="-230" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING up0000" x="3220" y="0" width="693" height="791" frameX="-166" frameY="-179" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING up0001" x="0" y="2496" width="696" height="785" frameX="-166" frameY="-185" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING left0000" x="1344" y="1675" width="671" height="815" frameX="-300" frameY="-159" frameWidth="1154" frameHeight="1057" />
+<SubTexture name="SING left0001" x="2550" y="0" width="670" height="814" frameX="-298" frameY="-160" frameWidth="1154" frameHeight="1057" />
+</TextureAtlas>

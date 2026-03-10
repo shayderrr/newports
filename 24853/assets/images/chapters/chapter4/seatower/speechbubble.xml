@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="speechbubble.png"><SubTexture name="speechbubble idle0000" x="1764" y="4037" width="2673" height="190" frameX="-40" frameY="-373" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0001" x="0" y="0" width="1806" height="682" frameX="-129" frameY="-107" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0002" x="1806" y="0" width="2076" height="629" frameX="-309" frameY="-163" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0003" x="1764" y="682" width="1783" height="483" frameX="-376" frameY="-262" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0004" x="0" y="682" width="1764" height="493" frameX="-431" frameY="-232" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0005" x="0" y="1175" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0006" x="1764" y="1175" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0007" x="0" y="1652" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0008" x="1764" y="1652" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0009" x="0" y="2129" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0010" x="1764" y="2129" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0011" x="0" y="2606" width="1763" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0012" x="1763" y="2606" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0013" x="1763" y="2606" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0014" x="0" y="3083" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0015" x="1764" y="3083" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0016" x="3882" y="0" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0017" x="3882" y="477" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0018" x="3882" y="954" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0019" x="3882" y="1431" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0020" x="3882" y="1431" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0021" x="3882" y="1908" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0022" x="3882" y="2385" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0023" x="3882" y="2862" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0024" x="3882" y="2862" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0025" x="0" y="3560" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0026" x="1764" y="3560" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0027" x="3528" y="3560" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0028" x="0" y="4037" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0029" x="0" y="4037" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0030" x="0" y="4037" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0031" x="0" y="4037" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0032" x="3528" y="3560" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0033" x="3528" y="3560" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+<SubTexture name="speechbubble idle0034" x="3528" y="3560" width="1764" height="477" frameX="-431" frameY="-248" frameWidth="2737" frameHeight="850" />
+</TextureAtlas>

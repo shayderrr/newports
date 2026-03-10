@@ -1,0 +1,50 @@
+{
+	"storyName": "Chapter 4",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "chapter3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"tape",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"The Great Sea",
+			"Captain",
+			[
+				166,
+				113,
+				253
+			]
+		],
+		[
+			"Vellumental Battle",
+			"ice",
+			[
+				166,
+				113,
+				253
+			]
+		],
+		[
+			"Shifty Sticker",
+			"Tape",
+			[
+				166,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Chapter 4",
+	"hiddenUntilUnlocked": false
+}

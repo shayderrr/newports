@@ -1,0 +1,17 @@
+:music:3-6:
+:music:fadeIn:
+:bg:discodevil1:
+:bf:default:~Yea!
+:dj:default:Agora isso SIM foi uma incrÃ­vel performance!
+:olivia:default:VocÃª mostrou pra eles mesmo quem Ã© que manda!
+:devil:blackened:ISSO AÃ!
+:cutscenesixteen:
+:sound:floorbreak:
+:music:1-4:
+:music:fadeIn:
+:devil:default:Ã‰ DISSO aÃ­ que eu tÃ´ falando! VocÃª tem um bom gosto pra mÃºsica, garoto!
+:bf:default:BEe-
+:devil:default:Mas eu nÃ£o consigo parar de achar que vocÃª tÃ¡ atrÃ¡s da fita.
+:bf:default:Bap >:(
+:devil:default:VocÃª Ã© Ã³timo no microfone, mas qual bom vocÃª Ã© na pista de danÃ§a?
+:devil:default:Ã‰ hora de REQUEBRAR!

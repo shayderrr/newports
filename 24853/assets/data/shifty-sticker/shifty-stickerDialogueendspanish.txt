@@ -1,0 +1,32 @@
+:bg:tape10:
+:bg:tear:
+:bg:flash:
+:sound:explosion:
+:music:4-end:
+:music:fadeIn:
+:narrator:default:DespuÃ©s de ese combate, la cinta pegajosa explotÃ³ como de costumbre con los villanos.
+:bg:tear:
+:olivia:default:Â¡MMHNNGGGGG!
+:bf:default:Â¡Bee!
+:fade:tape10:
+:bg:tape11:
+:bg:tear:
+:olivia:default:Â¡Â¡MHHGG!!
+:olivia:default:Â¡Por fin, gracias Boyfriend! Ha sido espantoso ser incapaz de moverseâ€¦
+:olivia:default:Â¡Pero oye! Â¡Has derrotado a ese impertinente! Creo que ya podemos destruir la serpentina sin problemas.
+:fade:tape11:
+:bg:tape12:
+:bg:tear:
+:narrator:default:Mario destruyÃ³ el origen de la serpentina morada a la vez que Boyfriend se desmayaba del cansancio, pues ha estado cantando sin apenas parar todo el dÃ­a.
+:bf:default:bEehhh...
+:olivia:default:Eso no suena muy sanoâ€¦ Tenemos que parar a reposar en algÃºn sitio pero no se si tenemos tiempo para esoâ€¦
+:narrator:default:Mientras la serpentina se convertÃ­a en polvo, el suelo empezÃ³ a temblar.
+:olivia:default:Uhhâ€¦
+:fade:tape12:
+:bg:tape13:
+:bg:flash:
+:narrator:default:Un enorme rayo de luz emergiÃ³ de los cielos encima de ellos y comenzÃ³ a abducirlos.
+:olivia:default:Â¡Hey, quÃ© estÃ¡ pasando!
+:bf:default:Â¿Beh?..
+:gf:default:...
+:gf:default:hm...

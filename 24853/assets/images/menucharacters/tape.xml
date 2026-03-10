@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tape.png">
+<SubTexture name="SING idle0000" x="689.7" y="2067" width="689.7" height="390" frameX="-44.1" frameY="-207.6" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0001" x="689.7" y="2067" width="689.7" height="390" frameX="-44.1" frameY="-207.6" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0002" x="1374.6" y="1667.4" width="687" height="393.9" frameX="-45.9" frameY="-203.4" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0003" x="1374.6" y="1667.4" width="687" height="393.9" frameX="-45.9" frameY="-203.4" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0003" x="690.9" y="1667.4" width="683.7" height="396.3" frameX="-47.1" frameY="-201" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0004" x="690.9" y="1667.4" width="683.7" height="396.3" frameX="-47.1" frameY="-201" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0005" x="2035.2" y="400.8" width="683.7" height="400.5" frameX="-47.1" frameY="-196.8" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0006" x="2035.2" y="400.8" width="683.7" height="400.5" frameX="-47.1" frameY="-196.8" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0007" x="0" y="1262.1" width="683.7" height="405.3" frameX="-47.1" frameY="-192" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0008" x="0" y="1262.1" width="683.7" height="405.3" frameX="-47.1" frameY="-192" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0009" x="0" y="443.7" width="683.7" height="409.2" frameX="-47.1" frameY="-188.1" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0010" x="0" y="443.7" width="683.7" height="409.2" frameX="-47.1" frameY="-188.1" frameWidth="891" frameHeight="620.7" />
+<SubTexture name="SING idle0011" x="0" y="443.7" width="683.7" height="409.2" frameX="-47.1" frameY="-188.1" frameWidth="891" frameHeight="620.7" />
+</TextureAtlas>

@@ -1,0 +1,25 @@
+:music:1-4:
+:music:fadeIn:
+:bg:elastic7:
+:rubber:default:Â¿Â¡PERO QUÃ‰ CREES QUE ESTÃS HACIENDO!?Â¡ESO NO ESTABA EN EL GUIÃ“N!
+:rubber:default:Â¿Â¡NO ME ESTABAS ESCUCHANDO!?Â¡TÃš PIERDES, YO GANO!
+:narrator:default:RÃ¡pidamente la rabia parecÃ­a consumir al monstruo elÃ¡sticoâ€¦
+:music:stop:
+:bg:elastic8:
+:bg:tear:
+:Narrator:â€¦desatando sus emociones fuera de control hasta el punto de rasgar las gomas que componÃ­an su cuerpo.
+:rubber:default:Â¡AAGHHH! Me dejÃ© llevarâ€¦ El telÃ³n se cierra para mÃ­.
+:rubber:default:Hasta nunca, querido pÃºblico.
+:sound:explosion:
+:bg:elastic9:
+:bg:tear:
+:narrator:default:El autoproclamado villano explotÃ³ en ese momento, enviando a Gf en los brazos de Bf.
+:fade:elastic9:
+:bg:elastic10:
+:music:2-2:
+:music:fadeIn:
+:gondol:default:Â¡No estÃ¡ nada mal chico! TendrÃ© cuidado la prÃ³xima vez que cantemos juntosâ€¦
+:gondol:default:Bueno, Â¿querÃ©is que nos vayamos al desierto o querÃ©is quedaros aquÃ­ en el Parque SamurÃ¡i un rato?
+:bf:default:Bep...
+:gondol:default:Ah es verdad, hay que encontrar a Mario.
+:gondol:default:Pues no digas mÃ¡s, Â¡subid!

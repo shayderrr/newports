@@ -1,0 +1,50 @@
+{
+	"storyName": "Chapter 3",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "chapter2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Yellow Streamer Battle",
+			"olivia",
+			[
+				255,
+				220,
+				40
+			]
+		],
+		[
+			"Thrills At Night",
+			"holepunchtoad",
+			[
+				255,
+				220,
+				40
+			]
+		],
+		[
+			"Disco Devil",
+			"holepunch",
+			[
+				255,
+				220,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"devil",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Chapter 3"
+}

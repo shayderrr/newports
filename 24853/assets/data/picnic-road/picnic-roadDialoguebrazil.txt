@@ -1,0 +1,22 @@
+:bg:picnic1:
+:music:1-1:
+:music:fadeIn:
+:narrator:default:Ã‰ o dia do Festival Origami. Boyfriend e Girlfriend foram convidados para o evento.
+:narrator:default:Entretanto, esse era um dia diferente. Quando chegaram, Girlfriend demonstrava uma aparÃªncia vazia. Algo deve ter acontecido no caminhoâ€¦
+:narrator:default:Boyfriends segura a vazia Girlfriend pelo seu braÃ§o, guiando-a para a cidade na esperanÃ§a de que alguÃ©m possa ajudar.
+:fade:picnic1:
+:bg:picnic2:
+:narrator:default:PorÃ©m entrar na Cidade dos Toads foi igualmente esquisito. Estava quieto demais para um festival, com certeza havia algo de errado.
+:narrator:default:Eles se encaminham pela estrada de Estrada Piquenique, desconhecida pelos dois.
+:fade:picnic2:
+:bg:picnic3:
+:music:1-2:
+:music:fadeIn:
+:toad:default:Ei!
+:bf:default:B-bah?
+:toad:default:Eu te reconheÃ§o do Ãºltimo festival! Boyfriend, nÃ©? Se lembra de quando eu te destruÃ­ com minhas habilidades iradas de clarinete?
+:bf:default:Bo...?
+:toad:default:Ah. Talvez uma mÃºsica te ajude a se lembrar melhor!
+:bf:default:Beep... Ba!
+:toad:default:Vamo lÃ¡, sÃ³ uma musiquinha?
+:bf:default:Bop...

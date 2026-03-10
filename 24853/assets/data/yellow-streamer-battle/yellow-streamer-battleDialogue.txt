@@ -1,0 +1,39 @@
+:music:2-2:
+:music:fadeIn:
+:bg:yellow1:
+:narrator:default:They finally arrive at the front of a cave.
+:gondol:default:Alright! This is the stop.
+:bf:default:Beep Bo!
+:gondol:default:Bye bye! You two try to keep out of trouble!
+:fade:yellow1:
+:bg:yellow2:
+:music:3-1:
+:music:fadeIn:
+:narrator:default:On the way Boyfriend trips on some rubble.
+:narrator:default:He gets up quickly and glances at the crater in the ground, wondering what may have happened...
+:narrator:default:He firmly grabs Girlfriend's arm, and the two march onward without a further thought.
+:music:3-2:
+:music:fadeIn:
+:fade:yellow2:
+:bg:yellow3:
+:narrator:default:In the mines they were able to snag a boot car to cross the unusually dark desert. 
+:narrator:default:It seems there was a gaping hole in the sky where the sun was, causing the desert to be dark and cold.
+:narrator:default:Boyfriend spotted what appeared to be a yellow ribbon in the sky.
+:narrator:default:It was still intact, attached to some ancient temple.
+:fade:yellow3:
+:bg:yellow4:
+:narrator:default:But soon he stopped, as another origami being was in his path. He jumped out to quickly deal with the threat.
+:olivia:default:Oh?
+:fade:yellow4:
+:bg:yellow5:
+:olivia:default:Hello there traveler! My name's Olivia!
+:bf:default:Bah...?
+:olivia:default:Oh, no I'm not a folded soldier. I've actually been following Mario for quite some time now.
+:bf:default:Bah bee-oh?! 
+:olivia:default:Of course! He's in a battle right now so I'm waiting for him and the professor to come back...
+:narrator:default:She sighs.
+:olivia:default:Oh- Wait, your mic...
+:olivia:default:Do you like to sing?
+:bf:default:Beep Boo.
+:olivia:default:Yay~ I don't often have people to sing with, wanna do a little song while we wait? 
+:bf:default:Bop.

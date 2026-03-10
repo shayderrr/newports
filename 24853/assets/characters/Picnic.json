@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				540,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				568,
+				490
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				542,
+				490
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [
+				562,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+		},
+		{
+			"offsets": [
+				536,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/picnic",
+	"position": [
+		-340,
+		-40
+	],
+	"healthicon": "picnic",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		95,
+		32
+	],
+	"camera_position": [
+		-120,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

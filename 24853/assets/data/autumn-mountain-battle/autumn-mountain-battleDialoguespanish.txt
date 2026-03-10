@@ -1,0 +1,14 @@
+:bg:autumn1:
+:music:2-1:
+:music:fadeIn:
+:narrator:default:La cabina del telefÃ©rico se detuvo en la parada del Monte del OtoÃ±o.
+:narrator:default:La pareja saliÃ³ de la cabina, retomando su bÃºsqueda.
+:fade:autumn1:
+:bg:autumn2:
+:narrator:default:En el camino se vieron emboscados por otro grupo de soldados doblados.
+:autumn:default:Â¡Oye tÃº! Â¡DÃ³nde crees que vas!
+:bf:default:~Suspiro. Beepâ€¦
+:autumn:default:Â¿QuÃ© intentas hacer cargando con tu amiga perdida? Â¿Tratas de salvarla?
+:autumn:default:Â¡Ha! Necioâ€¦ Â¡Ella ahora pertenece al Rey Olly, y no hay vuelta atrÃ¡s!
+:bf:default:...
+:autumn:default:Â¡Tu aventura acaba aquÃ­!

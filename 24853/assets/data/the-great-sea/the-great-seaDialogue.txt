@@ -1,0 +1,106 @@
+:music:4-1:
+:music:fadeIn:
+:bg:exploring1:
+:narrator:default:After heading back out, the desert felt a lot brighter. The purple-looking sand is now a bright yellow.
+:bf:default:Bep...
+:olivia:default:Yeah... it's definitely a lot brighter than it was before. That stationary must have punched a hole into the sky!
+:bg:tear:
+:sound:altaropen:
+:prof:default:Guys, look! I think the sun altar is opening!
+:fade:exploring1:
+:bg:exploring2:An altar that mario and Olivia had passed earlier was now wide open, exposing a darkened flight of stairs.
+:prof:default:Uhh, well, that's not scaryâ€¦ Mario, you go first. 
+:olivia:default:It's just a staircase. That's nothing compared to an ancient temple filled with faceless toads. C'mon, let's go!
+:sound:sandrun:
+:fade:exploring2:
+:bg:exploring3:
+:narrator:default:At the bottom of the staircase was a frozen room. And in the center, a toad encased in ice.
+:prof:default:Oh no! Poor guy must have spent way too long in this room with all this ancient cooling technology...
+:olivia:default:Oh dear, let me try to help him. Luckily, there's a fire vellumental circle right here.
+:bf:default:Beep?
+:olivia:default:Yeah! Vellumentals are elementals that can harness the power of earth, water, fire and ice respectively!
+:olivia:default:They've been corrupted and folded into origami by my brother, Olly, though. Luckily, I can still fold into some! Watch!
+:bg:tear:
+:sound:altaropen:
+:narrator:default:The circle suddenly began to glow...
+:bg:flash:
+:sound:pheonix:
+:bg:exploring4:
+:narrator:default:Olivia folded herself into the fire vellumental and melted the ice with ease.
+:sound:flames:
+:narrator:default:Bf looked in shock and fear for a brief moment.
+:music:stop:
+:sound:fallover:
+:bg:tear:
+:bg:exploring5:
+:narrator:default:The toad fell to the ground with a splash, coughing violently.
+:prof:default:Hey, are you alright?
+:tode:default:I... I feel...
+:bg:flash:
+:bg:exploring6:
+:music:4-2:
+:music:fadeIn:
+:tode:default:SPLENDID! Ya-har!
+:tode:default:You have freed me I see! Are ya happy to gaze upon yer captain once again after... Uhm... how long it's been?
+:tode:default:A week? Ten months?
+:olivia:default:Our..captain? We aren't your crew.
+:tode:default:Oh. Well, the names Kaph'taan Teeowed, but most just call me T. Ode...
+:tode:default:The name should be known to landlubbers like you and yer crew, young lass.
+:olivia:default:Umm not exactly...
+:prof:default:No WAY! The ancient sea captain T. Ode?? From the legend of Spa Marino!?
+:bf:default:Bep?
+:prof:default:The story goes that he stole the Spa's prized submarine to trade it for the crown of Shroomses! Who uhh didn't take it well and-
+:fade:exploring6:
+:bg:exploring7:
+:tode:default:Aye lad that's enough! It doesn't matter what the ol' Shroomses did! What I want is what's truly mine.
+:olivia:default:...You mean the submarine you stole?
+:tode:default:Ya-har! Once a pirate's treasure always a pirate's treasure.
+:prof:default:It is currently being displayed in the MusÃ©e Champignon but do you know if you could please help my friends out on their adventure.
+:tode:default:Hmm... aye! A pirate's always ready for adventure! As long as I get to keep me submarine in the end I'll help ya out.
+:tode:default:Just give me a rundown outside lassie.
+:olivia:default:Will do!
+:prof:default:Well I best be getting back to checking out these ancient temples. It seems this is where we part ways.
+:olivia:default:Oh, that's a shame Professor, but we wish you the best of luck in your explorations.
+:fade:exploring7:
+:bg:exploring8:
+:narrator:default:While outside, the professor called out to Boyfriend as Olivia filled in T. Ode.
+:prof:default:Hey- wait, kid.
+:bf:default:Bo?
+:prof:default:You know... once you're done with all this, if you could maybe let Kahp'taan Teeowed know to come back here?
+:prof:default:I want to tell him something...
+:bf:default:Bah!
+:prof:default:Thank you so much.
+:fade:exploring8:
+:bg:exploring9:
+:music:4-3:
+:music:fadeIn:
+:narrator:default:The group entered a pipe, connecting worlds together. It also happened to be the museum that contained T. Ode's submarine.
+:olivia:default:Okay Captain... how do you expect to take this exhibit's main attraction in broad daylight?
+:tode:default:We go in, guns a-blazing make them beg for their life on their knees holding a sword to their head until they give ye the desired artifact.
+:bf:default:Beep?!
+:tode:default:That's what we did where I come from!
+:olivia:default:We can't do that!
+:fade:exploring9:
+:bg:exploring10:
+:tode:default:Ah! There she be! MY glorious submarine! Ain't she a beauty.
+:nerdtoad:default:H-Hey! Get down from there! This exhibit is not for touching. I just cleaned it last week!
+:bf:default:Ba!
+:nerdtoad:default:You want to take the submarine? But it's our most prized display!
+:tode:default:And what a display she be.
+:olivia:default:Listen, we need it. The Capitan won't help Mario save Princess Peach without it.
+:nerdtoad:default:Okay fine... just be careful with it.
+:fade:exploring10:
+:bg:exploring11:
+:music:4-4:
+:music:fadeIn:
+:tode:default:Yarrr! We did it crew, now we can head for the docks!
+:narrator:default:A sea captain toad stood outside his ship.
+:bf:default:Baa!
+:captain:default:I'm on a break right now, can you wait?
+:captain:default:Wait- is that you Mario!? Oh and you're with new friends this time!
+:captain:default:What happened to that bob-omb though...
+:bg:flash:
+:bg:exploring12:
+:captain:default:Well if you are going to cut my break short for important world saving stuff, at least make it go out with a bang!
+:bf:default:Bah!
+:captain:default:Come on new guy... show me what you got!

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="star_hole.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="star_normal0000" x="1" y="1" width="261" height="235"/>
+	<SubTexture name="star_normal0001" x="1" y="1" width="261" height="235"/>
+	<SubTexture name="star_normal0002" x="263" y="1" width="209" height="187" frameX="-26" frameY="-24" frameWidth="261" frameHeight="235"/>
+	<SubTexture name="star_normal0003" x="263" y="1" width="209" height="187" frameX="-26" frameY="-24" frameWidth="261" frameHeight="235"/>
+	<SubTexture name="star_normal0004" x="473" y="1" width="219" height="197" frameX="-21" frameY="-19" frameWidth="261" frameHeight="235"/>
+	<SubTexture name="star_normal0005" x="473" y="1" width="219" height="197" frameX="-21" frameY="-19" frameWidth="261" frameHeight="235"/>
+</TextureAtlas>

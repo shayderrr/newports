@@ -1,0 +1,22 @@
+:bg:picnic1:
+:music:1-1:
+:music:fadeIn:
+:narrator:default:Es el dÃ­a del Festival del Origami, al que Boyfriend y Girlfriend fueron invitados.
+:narrator:default:Sin embargo, cuando llegaron algo parecÃ­a diferente. Girlfriend parece exenta de vida y doblada. 
+:narrator:default:Boyfriend sostiene a lo que queda de Girlfriend por el brazo, guiÃ¡ndola por Villa Toad esperando encontrarse con alguien que la pueda ayudar.
+:fade:picnic1:
+:bg:picnic2:
+:narrator:default:Villa Toad parecÃ­a demasiado silencioso para ser Ã©poca de festival. Algo grave debe de haber pasado.
+:narrator:default:Ambos prosiguen hasta la salida de Villa Toad, que daba al Camino de la Primavera, lugar inexplorado para Boyfriend.
+:fade:picnic2:
+:bg:picnic3:
+:music:1-2:
+:music:fadeIn:
+:toad:default:Â¡Oye!
+:bf:default:Â¿B-bah? 
+:toad:default:Â¡Te reconozco del festival anterior! Â¿Boyfriend, no? Â¿Te acuerdas cuando te machaquÃ© brutalmente con mis habilidades con el clarinete?
+:bf:default:Â¿Boâ€¦?
+:toad:default:Hmmâ€¦ Supongo que una canciÃ³n rÃ¡pida podrÃ­a refrescar tu memoriaâ€¦
+:bf:default:Beepâ€¦ Â¡Ba!
+:toad:default:Oh venga, Â¿ni una canciÃ³n rÃ¡pida?
+:bf:default:Bop...

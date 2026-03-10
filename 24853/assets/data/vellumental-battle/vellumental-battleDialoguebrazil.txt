@@ -1,0 +1,68 @@
+:cutscenethirteen:
+:music:4-5:
+:music:fadeIn:
+:narrator:default:ApÃ³s uma rÃ¡pida mÃºsica, eles entraram no barco e prenderam o submarino atrÃ¡s. 
+:narrator:default:Seguindo a fita roxa, ela levava a uma grande torre do mar, com a entrada trancada atrÃ¡s de uma porta.
+:narrator:default:A porta precisava de trÃªs chaves esfÃ©ricas para ser aberta.
+:narrator:default:A equipe navegou por ilhas prÃ³ximas, procurando por onde elas poderiam estar.
+:olivia:default:Espera. Parem aqui! Eu reconheÃ§o essa aqui.
+:removecutscenethirteen:
+:bg:vullemental2:
+:olivia:default:Yeah! It's the house the Origami Craftsman first folded Olly and I!
+:olivia:default:Oi Luigi.
+:luigi:default:E aÃ­.
+:olivia:default:VocÃªs fiquem aqui fora. Voltaremos jÃ¡.
+:fade:vullemental2:
+:bg:vullemental3:
+:tode:default:Beleza, jÃ¡ visitamos quase todas as ilhas por aqui. 
+:tode:default:...Por acaso a moÃ§a tem algum livrinho de mÃ¡gica?
+:olivia:default:Esse livro tem mais importÃ¢ncia do que pensa CapitÃ£o, ele Ã© na verdade um tipo especial de livro que-
+:tode:default:BlÃ¡ blÃ¡ blÃ¡â€¦ vai me fazer dormir com tantos detalhes.. 
+:tode:default:De qualquer formaâ€¦ 
+:tode:default:Enquanto ela foi fazer sua visitinha chata, acho que descobri aonde ficam as chaves.
+:tode:default:Em algum lugar.
+:captain:default:Talvez terÃ¡ que checar usando o submarino. NÃ£o vejo terra alguma aqui.
+:fade:vullemental3:
+:bg:vullemental4:
+:music:4-6:
+:music:fadeIn:
+:olivia:default:Oh nossa o capitÃ£o estava certo! Realmente TEM algo aqui!
+:tode:default:Essas pedras devem valer uma fortuna se estÃ£o tÃ£o bem trancadas.
+:fade:vullemental4:
+:bg:vullemental5:
+:olivia:default:Uauâ€¦ mas que lindo-
+:tode:default:Hmm, uma jÃ³ia escondida, perdida no tempo, adormecida entre as ondasâ€¦
+:olivia:default:Vermelho, Azul, Verde, assim que nem os buracos na porta!
+:tode:default:Sim, essas construÃ§Ãµes devem ser os testes ancientes! Ã‰ dito que somente os mais corajosos, sÃ¡bios, e fortes herÃ³is conseguem passar deles.
+:fade:vullemental5:
+:bg:vullemental6:
+:olivia:default:EntÃ£o o Mario deve passar pelos testes! Boyfriend, por que nÃ£o leva sua amiga e explora aquela montanha gelada? NÃ£o queremos deixar nenhuma pedra intacta!
+:bf:default:Uhh...
+:olivia:default:Relaxa, nÃ£o hÃ¡ nada com o que se preocupar, vocÃª consegue!
+:fade:vullemental6:
+:bg:vullemental7:
+:music:4-7:
+:music:fadeIn:
+:sound:sandrun:
+:narrator:default:Eles caminharam pela caverna de gelo, com seus passos ecoando pela cÃ¢mara vazia.
+:bg:tear:
+:sound:altaropen:
+:narrator:default:Mas junto com seus passos, havia o rugido desagradÃ¡vel nÃ£o muito comum. Boyfriend sabia que ele nÃ£o estava sÃ³â€¦
+:fade:vullemental7:
+:bg:vullemental8:
+:bf:default:Bep...
+:narrator:default:Os sons cresciam mais alto. Pareciam estar cientes da presenÃ§a dele. Boyfriend treme, sem saber se Ã© o frio ou o medo.
+:bg:vullemental9:
+:bg:tear:
+:bg:flash:
+:music:4-8:
+:music:fadeIn:
+:sound:altaropen:
+:narrator:default:Houve um impacto quando o monstro apareceu logo ao lado deles.
+:bf:default:Bah!
+:narrator:default:Era um dos pergaminhos no qual a Olivia havia o avisado. Um urso polar dobrado enorme, pronto para rasgÃ¡-los em pedaÃ§os.
+:bg:tear:
+:bg:flash:
+:sound:altaropen:
+:narrator:default:Ele rugiu violentamente de novo, seu Ãºltimo aviso de que estava prestes a atacar.
+:narrator:default:Boyfriend se preparou para acabar com a besta do Ãºnico jeito que ele sabiaâ€¦

@@ -1,0 +1,14 @@
+:bg:autumn1:
+:music:2-1:
+:music:fadeIn:
+:narrator:default:Com o fim da viagem, o par saiu do telefÃ©rico. 
+:narrator:default:Ao chegar na Montanha do Outono, Boyfriend respirou profundamente enquanto marchava em busca do â€œherÃ³i localâ€.
+:fade:autumn1:
+:bg:autumn2:
+:narrator:default:PorÃ©m, em seu caminho, ele foi interrompido por outro par de soldados dobrados. 
+:autumn:default:Ei, vocÃª ai! Para onde pensa que estÃ¡ indo?
+:bf:default:*suspiro* Beepâ€¦
+:autumn:default:Vejo vocÃª carregando sua amiga perdidaâ€¦ estÃ¡ tentando salvÃ¡-la?
+:autumn:default:Pah!... Ela pertence ao Rei Olly agora, nÃ£o hÃ¡ jeito de trazÃª-la de volta!
+:bf:default:...
+:autumn:default:Sua jornada termina aqui! 

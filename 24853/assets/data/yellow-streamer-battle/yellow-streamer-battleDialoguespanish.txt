@@ -1,0 +1,39 @@
+:music:2-2:
+:music:fadeIn:
+:bg:yellow1:
+:narrator:default:El toad les deja en una parada en frente de una cueva.
+:gondol:default:Han llegado a su destino.
+:bf:default:Â¡Beep Bo!
+:gondol:default:Â¡Hasta luego! No os metÃ¡is en mÃ¡s lÃ­os.
+:fade:yellow1:
+:bg:yellow2:
+:music:3-1:
+:music:fadeIn:
+:narrator:default:A la entrada de la cueva, Bf se tropieza con unos crÃ¡teres en el suelo.
+:narrator:default:Se da la vuelta para preguntarse quÃ© puede haber pasado en el suelo.
+:narrator:default:Pero rÃ¡pidamente agarra el brazo de Girlfriend y prosigue adelante.
+:music:3-2:
+:music:fadeIn:
+:fade:yellow2:
+:bg:yellow3:
+:narrator:default:Dentro de las minas consiguen hacerse con un botamÃ³vil para cruzar el sorprendentemente oscuro desierto.
+:narrator:default:En el lugar del sol habÃ­a un agujero que habÃ­a causado que el ambiente estuviera frÃ­o y oscuro.
+:narrator:default:En el cielo tambiÃ©n parecÃ­a haber una serpentina amarilla gigante.
+:narrator:default:Estaba intacta y su final parecÃ­a dar con una especie de templo antiguo.
+:fade:yellow3:
+:bg:yellow4:
+:narrator:default:Pero antes de llegar, se pararon pues otro ser de origami bloqueaba el camino. Bf saltÃ³ del vehÃ­culo para lidiar con la posible amenaza.
+:olivia:default:Â¿Oh?
+:fade:yellow4:
+:bg:yellow5:
+:olivia:default:Â¡Hola viajero! Mi nombre es Olivia.
+:bf:default:Â¿Bahâ€¦?
+:olivia:default:Ah no no noâ€¦ No soy un enemigo de origami, llevo siguiendo a Mario durante un tiempo y hemos lidiado con muchos de esos.
+:bf:default:Â¿Â¡Bah bi-oh!? 
+:olivia:default:Â¡SÃ­! Peroâ€¦ Ahora mismo estÃ¡ con una batalla por ahÃ­. Estoy esperando hasta que Ã©l y el profesor regresen.
+:narrator:default:Olivia suspira.
+:olivia:default:Â¿Hm, quÃ© tienes en tu mano?
+:olivia:default:Â¿Un micrÃ³fono? Â¿Acaso tambiÃ©n te gusta cantar?
+:bf:default:Beep Boo.
+:olivia:default:Â¡Oh que ilusiÃ³n! No me suelo encontrar nunca con gente interesada en elloâ€¦ Â¿Te interesa cantar una canciÃ³n corta mientras esperamos? 
+:bf:default:Bop.

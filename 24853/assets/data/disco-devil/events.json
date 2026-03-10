@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "discodevilalt",
+		"player1": "bf",
+		"player2": "devil",
+		"player3": null,
+		"events": [
+			[
+				36739.1304347826,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf-hole"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-origami",
+		"bpm": 138,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Disco Devil"
+	}
+}

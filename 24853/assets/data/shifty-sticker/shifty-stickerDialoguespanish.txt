@@ -1,0 +1,71 @@
+:bg:tape1:
+:music:4-9:
+:music:fadeIn:
+:narrator:default:Con el oso polar derrotado, Boyfriend se sintiÃ³ incluso mÃ¡s sin aliento que antes.
+:olivia:default:Â¡Oh cielos, Boyfriend, Girlfriend! Â¿EstÃ¡is bien? Escuchamos un ruido enorme desde la otra punta de la isla justo despuÃ©s de que Mario completase las pruebas y-
+:narrator:default:Mario agarra al vuelo un libro que habÃ­a salido volando del cuerpo del oso tras ser derrotado.
+:olivia:default:Buena.
+:olivia:default:WUn momentoâ€¦ Â¡Es el CÃ³dice del papelemental de hielo!
+:olivia:default:You beat the last vellumental?! Awesome! 
+:olivia:default:Â¿Boyfriend, has podido derrotar al papelemental de hielo? Â¡IncreÃ­ble! Con este libro puedo aprender a doblarme en la forma del oso. Nos serÃ¡ util.
+:olivia:default:Volvamos al Super Marino, ya tenemos las llaves de la Torre OceÃ¡nica.
+:fade:tape1:
+:bg:tape2:
+:tode:default:Â¿Os hicisteis con vuestros ansiados tesoros?
+:olivia:default:Sip. Mario consiguiÃ³ las llaves tras superar las pruebas y Bf consiguiÃ³ derrotar al papelemental de hielo, asÃ­ que tenemos mÃ¡s que de sobra.
+:tode:default:Â¡Excelente! Volvamos a la superficie.
+:fade:tape2:
+:bg:tape3:
+:bf:default:Â¡Bai bep!
+:tode:default:Â¿Que quÃ© voy a hacer despuÃ©s de mi aventura?
+:tode:default:Planeo retornar a explorar las maravillas del ocÃ©ano con mi Super Marino como llevo haciendo desde que dediquÃ© mi vida al mar.
+:bf:default:...
+:tode:default:Â¿El profesor del desierto dices? En absoluto, puedo hacer una ligera parada para visitarle, parecÃ­a simpÃ¡tico.
+:fade:tape3:
+:bg:tape4:
+:captain:default:Â¡Menos mal que estÃ¡is aquÃ­, empezaba a pensar que os habÃ­ais ahogado o algo!
+:bf:default:Boop bee-bap bo ske doop beep.
+:olivia:default:Bien dicho, tenemos que ir a esa torre ya de ya, capitÃ¡n
+:fade:tape4:
+:bg:tape5:
+:tode:default:TripulaciÃ³n, me pesa decir esto pero mi trabajo ha terminado, hemos explorado con Ã©xito todo el Gran Mar, asÃ­ que debo partir en bÃºsqueda de ocÃ©anos inexplorados lejos de aquÃ­.
+:tode:default:MÃ¡s antes de tal gran embarcaciÃ³n, harÃ© una breve paradita en tierraâ€¦
+:olivia:default:Â¡AdiÃ³s CapitÃ¡n! Â¡Suerte en tus aventuras marÃ­timas!
+:fade:tape5:
+:bg:tape6:
+:captain:default:Â¡Tierra a la vista! La Torre OceÃ¡nica estÃ¡ cerca.
+:olivia:default:Â¡Viva, al fin podremos quitar otra serpentina del castillo!
+:fade:tape6:
+:bg:tape7:
+:captain:default:Hemos llegado, buena suerte a partir de aquÃ­, pero yo no subirÃ© con vosotros.
+:captain:default:No me llaman CAPITÃN DEL BARCO por nada.
+:olivia:default:Â¡AdiÃ³s por ahora capitÃ¡n! Â¡Y gracias por todo!
+:olivia:default:Â¿Boyfriend, Mario, podÃ©is ver si las llaves encajan en sus agujeros?
+:bf:default:Â¡Yeah!
+:narrator:default:Mario asiente con la cabeza.
+:olivia:default:Â¡Pues vamos!
+:fade:tape7:
+:bg:tape8:
+:narrator:default:La torre se elevaba cientos de metros hacia el cielo, tanto que los pisos superiores estaban ocultos por nubes. El camino les llevÃ³ a un ascensor exterior que llevaba a la cima.
+:olivia:default:Â¡Cielos, esos pobres toads! Â¡EstÃ¡n pegados a la pared!
+:olivia:default:Â¿QuÃ© clase de criatura pegajosa estarÃ¡ vigilando esta serpentina?
+:bf:default:Bai bep boop.
+:olivia:default:Tienes razÃ³n Boyfriend, Â¡Derrotando al villano que hizo eso los podremos liberar!
+:fade:tape8:
+:bg:tape9:
+:narrator:default:El ascensor finalmente llegÃ³ a la cima de la Torre OceÃ¡nica, el origen de la serpentina se veÃ­a claro a unos cuantos metros de ellos.
+:olivia:default:Â¡AhÃ­ estÃ¡, rÃ¡pido vamos a destruirlo-!
+:sound:altaropen:
+:bg:tear:
+:olivia:default:Un momentoâ€¦ Â¿QuÃ© es ese ruido?
+:cutscenethirtyone:
+:music:1-4:
+:music:tapefadeIn:
+:tape:default:Â¡No tan rÃ¡pido!
+:tape:default:Mario yâ€¦ uhâ€¦ Â¿Boyfriend, verdad? Los demÃ¡s me han hablado de vosotros.
+:tape:default:Sin duda tenÃ©is agallas, pero os habÃ©is pasado de la raya pensando que podÃ©is destruir mi serpentina. 
+:tape:default:Â¡Olvidaos de ella!
+:olivia:default:AsÃ­ que tÃº eres el tirano que ha pegado los toads a la torre. Â¿Por quÃ© mi hermano siempre contrata a unos secuaces tan predecibles?
+:tape:default:Â¡Hey, niÃ±a! Â¡No soy predecible, soy pegajosa!
+:tape:default:Ya estÃ¡, os la habÃ©is ganado, ahora sÃ­ que vais a caer.
+:tape:default:EmpezarÃ© contigo niÃ±o de pelo azul, esto va a ser demasiado fÃ¡cil.

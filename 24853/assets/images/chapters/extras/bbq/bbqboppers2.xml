@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bbqboppers2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bbqbop20000" x="1" y="1" width="2593" height="1535"/>
+	<SubTexture name="bbqbop20001" x="1" y="1" width="2593" height="1535"/>
+	<SubTexture name="bbqbop20002" x="2595" y="1" width="2593" height="1535"/>
+	<SubTexture name="bbqbop20003" x="2595" y="1" width="2593" height="1535"/>
+	<SubTexture name="bbqbop20004" x="5189" y="1" width="2593" height="1535"/>
+	<SubTexture name="bbqbop20005" x="5189" y="1" width="2593" height="1535"/>
+	<SubTexture name="bbqbop20006" x="1" y="1537" width="2593" height="1535"/>
+	<SubTexture name="bbqbop20007" x="1" y="1537" width="2593" height="1535"/>
+</TextureAtlas>

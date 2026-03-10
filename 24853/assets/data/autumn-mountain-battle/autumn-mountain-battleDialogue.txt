@@ -1,0 +1,14 @@
+:bg:autumn1:
+:music:2-1:
+:music:fadeIn:
+:narrator:default:As the cableway came to a halt, the pair stepped out. 
+:narrator:default:Arriving in Autumn Mountain, Boyfriend took in the fresh air as he marched onwards in search of the so called "local hero".
+:fade:autumn1:
+:bg:autumn2:
+:narrator:default:On his way however, he was ambushed by yet another set of folded soldiers. 
+:autumn:default:Hey, you there! Where do you think you're going?
+:bf:default:Sigh... Beeep~...
+:autumn:default:I see you're carrying your friendâ€¦ are you trying to save her?
+:autumn:default:Pah!... She belongs to King Olly now! There is no bringing her back.
+:bf:default:...
+:autumn:default:Your quest ends here!

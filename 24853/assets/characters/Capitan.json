@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 11,
+			"name": "SING idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 11,
+			"name": "SING down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 11,
+			"name": "SING up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SING left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SING right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Capitan",
+	"position": [
+		-330,
+		-20
+	],
+	"healthicon": "Captain",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		120,
+		255
+	],
+	"camera_position": [
+		230,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

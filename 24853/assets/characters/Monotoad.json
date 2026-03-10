@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 11,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				100,
+				30
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				-20,
+				50
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "intro",
+			"loop": false,
+			"name": "aparece we"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monotoad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monotoad",
+	"flip_x": false,
+	"healthbar_colors": [
+		220,
+		220,
+		220
+	],
+	"camera_position": [
+		-85,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,32 @@
+:bg:tape10:
+:bg:tear:
+:bg:flash:
+:sound:explosion:
+:music:4-end:
+:music:fadeIn:
+:narrator:default:After that, the Stationery exploded as per usual.
+:bg:tear:
+:olivia:default:MMHNNGGGGG!!
+:bf:default:Bee!
+:fade:tape10:
+:bg:tape11:
+:bg:tear:
+:olivia:default:MMHHGG!!
+:olivia:default:Omg! Finally, thank you Boyfriend! It felt awful not being able to move!
+:olivia:default:But hey! You took down that thing, great job! Now we can just take down the streamer no problem.
+:fade:tape11:
+:bg:tape12:
+:bg:tear:
+:narrator:default:Mario smashed the weak point as Boyfriend fell down. He was exhausted for today.
+:bf:default:bEehhh...
+:olivia:default:That doesn't sound healthy... we need to rest somewhere. But I don't even know if we have time...
+:narrator:default:As the streamer turned to shreds, the ground began to rumble.
+:olivia:default:Uhhâ€¦
+:fade:tape12:
+:bg:tape13:
+:bg:flash:
+:narrator:default:A beam of light suddenly emerged from the heavens and lifted them into the sky.
+:olivia:default:Hey! What's going on...
+:bf:default:Beh?...
+:gf:default:...
+:gf:default:hm...

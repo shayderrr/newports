@@ -1,0 +1,24 @@
+:music:2-1:
+:music:fadeIn:
+:bg:eddy1:
+:gondol:default:Ei vocÃª, garoto!
+:bf:default:Bop?
+:gondol:default:Sim, vocÃª mesmo! Isso foi incrÃ­vel! VocÃª realmente mostrou pra aqueles soldados quem que manda.
+:fade:eddy1:
+:bg:eddy2:
+:bf:default:Boop beep.
+:gondol:default:Oh, vocÃª estÃ¡ procurando pelo Mario? Eu lembro de ter levado ele atÃ© o Deserto de Lixa Escaldante. 
+:bf:default:Beep bo?
+:gondol:default:Claro parceiro! Sobe aÃ­ que eu dou uma carona pra vocÃª e essa sua amiguinha dobrada. JÃ¡ que vocÃª parece confiar nelaâ€¦ 
+:music:2-river:
+:music:fadeIn:
+:fade:eddy2:
+:bg:eddy3:
+:narrator:default:A tranquilidade do rio deu uma sensaÃ§Ã£o estranha ao BF, tendo em conta de que ele fez nada alÃ©m de cantar durante essa viagem toda.
+:narrator:default:PorÃ©m finalmente, o Toad quebrou o silÃªncio.
+:gondol:default:Ei jovem.
+:bf:default:?
+:gondol:default:Quer cantar mais uma mÃºsica? Minhas cordas vocais estavam ansiosas para cantarolar desde que o Mario passou por aqui.
+:bf:default:Boop beep!
+:gondol:default:Excelente! Cantar pelas cachoeiras deve ser interessante!
+:gondol:default:SÃ³ tome cuidado com os troncos e pedras! Colidir com eles pode ser fatal.

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "rubber idle",
+	"position": [
+		270,
+		200
+	],
+	"scale": 0.4,
+	"image": "campaign_menu_UI_characters",
+	"flipX": false
+}

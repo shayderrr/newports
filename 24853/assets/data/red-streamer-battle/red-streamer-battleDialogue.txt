@@ -1,0 +1,27 @@
+:bg:redstreamer1:
+:music:1-2:
+:music:fadeIn:
+:toad:default:Aww shucksâ€¦ good one pal.
+:bf:default:Beep!
+:narrator:default:Boyfriend asks the toad if he knows anything about what is going on.
+:toad:default:Oh uhh... Something about a crazy maniac folding people into mindless zombies and turning toads into small origami figures. 
+:toad:default:I was a frog. Could you believe that? Haha!
+:bf:default:Beep?
+:toad:default:Oh, I didn't! Mario actually came by here. He's our town's local hero!
+:toad:default:All it took was a few hits from his hammer and I was back to my regular flat self.
+:toad:default:He's your best bet if you're looking to fix your girlfriend!
+:bf:default:Beep ba?
+:toad:default:He went up the mountain to a place called Overlook Tower. Something about removing a streamer... I think.
+:fade:redstreamer1:
+:bg:redstreamer2:
+:bf:default:Bah!
+:toad:default:Bye frieeends~! Good luck finding Mario!
+:toad:default:I'll make my way back to my shop. Feel free to drop by later!
+:bg:hide:
+:cutscenesix:
+:music:1-3:
+:music:fadeIn:
+:picnic:default:Stop right there!
+:bf:default:Bap!
+:narrator:default:A group of enemies jumped in front of thier path.
+:picnic:default:We appear to have missed one! You best be ready to be creased, flat one!!

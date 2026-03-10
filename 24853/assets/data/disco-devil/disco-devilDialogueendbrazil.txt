@@ -1,0 +1,15 @@
+:music:3-6:
+:music:fadeIn:
+:sound:explosion:
+:bg:tear:
+:bg:discodevil3:
+:narrator:default:Com o grande perfurador derrotado, os rostos de todos voaram para onde pertenciam.
+:yellowtoad:default:Nossa, eu consigo falar de novo!
+:yellowtoad:default:Meu rosto!
+:yellowtoad:default:Obrigado!
+:dj:default:Boa garoto, eu nÃ£o sabia que vocÃª era bom assim.
+:olivia:default:Aquilo foi incrÃ­vel! Bom trabalho azulzinho!
+:prof:default:Isso foi fenomenal, moleque! Agora vamos pegar aquela fita e cair fora daqui!
+:olivia:default: Vamos lÃ¡!
+:bf:default:Beep!
+:gf:default:...

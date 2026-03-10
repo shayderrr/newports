@@ -1,0 +1,70 @@
+:bg:tape1:
+:music:4-9:
+:music:fadeIn:
+:narrator:default:Com o urso polar derrotado, Boyfriend se sentiu sem fÃ´lego.
+:olivia:default:Puxa vida! Boyfriend, Girlfriend, vocÃªs estÃ£o bem!? Ouvimos um barulho imenso logo apÃ³s que o Mario venceu os testes-
+:narrator:default:Mario pega um livro misterioso que o urso deixou apÃ³s ser derrotado.
+:olivia:default:Boa.
+:olivia:default:Espera! Ã‰ o Bibliofold do pergaminho de gelo!
+:olivia:default:VocÃª venceu do Ãºltimo deles?! Ã“timo! Isso vai me ajudar a me dobrÃ¡-lo nele, talvez seja Ãºtil depoisâ€¦
+:olivia:default:Vamos voltar ao submarino, conseguimos todas as chaves para a Torre Marinha.
+:fade:tape1:
+:bg:tape2:
+:tode:default:Acharam o que precisavam? 
+:olivia:default:Yup, o Mario arrasou naqueles testes. E o Boyfriend derrotou o Pergaminho de Gelo tambÃ©m, entÃ£o jÃ¡ estamos mais do que prontos.
+:tode:default:EsplÃªndido! Vamos navegar de volta para aquela torre!
+:fade:tape2:
+:bg:tape3:
+:bf:default:Bai bep!
+:tode:default:HÃ£? O que eu farei apÃ³s isso? 
+:tode:default:Eu voltarei a explorar as maravilhas do oceano com meu submarino glorioso, como nos velhos tempos...
+:bf:default:...
+:tode:default:Aquele professor do deserto? Claro, posso dar uma visitinha para ele. Ele me parece gente fina.
+:fade:tape3:
+:bg:tape4:
+:captain:default:Ei! Ã‰ bom tÃª-los de volta! Achava que haviam se afogado ou coisa do tipo.
+:bf:default:Boop bee-bap bo ske doop beep.
+:olivia:default:Precisamente, precisamos ir para aquela torre marinha o mais rÃ¡pido o possÃ­vel, CapitÃ£o!
+:fade:tape4:
+:bg:tape5:
+:tode:default:Bom, acho que meu trabalho estÃ¡ pronto aqui! Nada a mais pra se explorar no Grande Mar, entÃ£o irei procurar pelos oceanos mais grandes, e bem longe.
+:tode:default:Mas antes disso, preciso dar uma pousadinha em uma certa ilhaâ€¦
+:olivia:default:Adeus T.Ode! Te desejamos sorte em sua aventura.
+:fade:tape5:
+:bg:tape6:
+:captain:default:Ali! Estou o vendo! NÃ£o falta muito alcanÃ§armos aquela torre!
+:olivia:default:Sim! Finalmente poderemos remover outro laÃ§o desse mundo!
+:fade:tape6:
+:bg:tape7:
+:captain:default:Tudo bem, aqui estamos nÃ³s. Boa sorte lÃ¡ em cima, por que eu com certeza nÃ£o vou junto.
+:captain:default:NÃ£o me chamam de capitÃ£o dos MARES por nada.
+:olivia:default:Adeus por enquanto, CapitÃ£o! Obrigada por tudo.
+:olivia:default:Boyfriend, Mario, podem conferir se as chaves combinam com os buracos?
+:bf:default:Yeah!
+:narrator:default:Mario acena.
+:olivia:default:Vamos nessa!
+:fade:tape7:
+:bg:tape8:
+:narrator:default:A torre se estendia bastante. O topo estava escondido pelas nuvens. LÃ¡ dentro, um caminho levava a um elevador no exterior da torre.
+:olivia:default:Oh cÃ©us! Pobres toads! EstÃ£o de alguma forma presos nas paredes da torre!
+:olivia:default:Que tipo de criatura pegajosa estÃ¡ protegendo essa?
+:bf:default:Bai bep boop.
+:olivia:default:Tem razÃ£o, nÃ³s derrotaremos seja lÃ¡ quem fez isso e eles estarÃ£o livres em breve!
+:fade:tape8:
+:bg:tape9:
+:narrator:default:Eventualmente, o elevador alcanÃ§ou o topo da torre marinha, o ponto fraco da fita finalmente estava visÃ­vel.
+:olivia:default:LÃ¡ estÃ¡ ela!! Conseguimos! RÃ¡pido, vamos destruÃ­-la-
+:sound:altaropen:
+:bg:tear:
+:olivia:default:Espera, o que foi esse barulho?
+:cutscenethirtyone:
+:music:1-4:
+:music:tapefadeIn:
+:tape:default:NÃ£o tÃ£o rÃ¡pido, ratos sujismundos!
+:tape:default:Mario e uhâ€¦ Boyfriend, certo? Ouvi falar de vocÃªs dois da outra legiÃ£o de estacionÃ¡rios! 
+:tape:default:VocÃªs dois tem coragem, achando que podem simplesmente vir aqui e destruir minha fita? 
+:tape:default:Podem esquecer!
+:olivia:default:EntÃ£o foi vocÃª que prendeu aqueles toads nas paredes. Como que o meu irmÃ£o contrata sÃ³ os capangas mais esquisitos com as personalidades mais bregas?
+:tape:default:Ei vocÃª, mocinha. NÃ£o sou brega, sou grudento!
+:tape:default:JÃ¡ chega, acabou para vocÃªs! Hora de mostrÃ¡-los do que sou capaz! 
+:tape:default:Comecarei com vocÃª primeiro, garotinho azul. Isso vai ser mamÃ£o com aÃ§ucar. 

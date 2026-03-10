@@ -1,0 +1,27 @@
+:bg:redstreamer1:
+:music:1-2:
+:music:fadeIn:
+:toad:default:Ahh drogaâ€¦ muito bom amigo.
+:bf:default:Beep!
+:narrator:default:Boyfriend pergunta para o Toad se ele sabe sobre algo do que estÃ¡ acontecendo.
+:toad:default:Ah Ã©â€¦ Parece ser alguma coisa sobre um manÃ­aco insano dobrando pessoas transformando-as em zumbis e fazendo toads virarem origamizinhos.
+:toad:default:Eu era um sapo. VocÃª consegue acreditar nisso? Haha!
+:bf:default:Beep?
+:toad:default:Ah, eu nÃ£o! Na verdade o Mario veio por aqui. Ele Ã© nosso heroÃ­ local da cidade.
+:toad:default:SÃ³ foi preciso levar umas marteladas dele que eu voltei ao meu normal e plano euzinho.
+:toad:default:Ele Ã© sua melhor escolha se estiver procurando uma chance de consertar sua namorada!
+:bf:default:Beep ba?
+:toad:default:Ele subiu a montanha pra chegar num lugarzinho chamado Montanha Vista Alta. Algo a ver com remover uma fitaâ€¦
+:fade:redstreamer1:
+:bg:redstreamer2:
+:bf:default:Bah!
+:toad:default:Tchau amigos! Boa sorte encontrando o Mario!
+:toad:default:Eu vou indo de volta para minha loja. Sinta-se a vontade para visitar qualquer outra hora!
+:bg:hide:
+:cutscenesix:
+:music:1-3:
+:music:fadeIn:
+:picnic:default:Parado aÃ­!
+:bf:default:Bap!
+:narrator:default:Um grupo de inimigos pularam na frente de seu caminho.
+:picnic:default:Parece que nÃ£o pegamos um. Se prepara pra ser amassado, anÃ£o liso!

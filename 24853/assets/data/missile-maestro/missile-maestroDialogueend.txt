@@ -1,0 +1,12 @@
+:bg:missile4:
+:music:1-1:
+:music:fadeIn:
+:colors:default:I CAN'T BELIEVE THIS!
+:colors:default:ME, JEAN PIERRE COLORED PENCILS THE 12TH, DEFEATED BY TWO MIDGETS IN A ROW!
+:colors:default:YOUâ€™LL PAY FOR-....
+:bg:white:
+:fade:missile4:
+:narrator:default:The colorful spectre vanished out of existence with a bright glow..
+:bg:missile5:
+:narrator:default:Boyfriend sits down on the empty cableway as he ponders and feels desperate without his back-to-self girlfriend.
+:narrator:default:Yet, he has a small hope in someone called "Mario", so they continue on their way to Autumn Mountain.

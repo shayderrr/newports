@@ -1,0 +1,26 @@
+:bg:redstreamer1:
+:music:1-2:
+:music:fadeIn:
+:toad:default:Vaya, mala suerte para mÃ­, parece que ahora estamos 1-1.
+:narrator:default:Boyfriend pregunta si el Toad clarinetista conoce algo sobre quÃ© estÃ¡ pasando.
+:toad:default:Oh uhmmâ€¦ no lo sÃ© muy bien, creo que algo sobre un loco doblando a la gente en objetos de origami y zombis sin consciencia.
+:toad:default:Â¡Es mÃ¡s, yo era una rana hasta hace poco!
+:bf:default:Â¿Beep?
+:toad:default:Oh yo no me liberÃ© solo, fue gracias a Mario. Es algo asÃ­ como un hÃ©roe local.
+:toad:default:Con unos cuantos golpes de martillo es suficiente para devolver a alguien a su forma plana normal. 
+:toad:default:DirÃ­a que sin duda es tu mejor apuesta si quieres arreglar a tu amiga.
+:bf:default:Â¿Beep ba?
+:toad:default:DespuÃ©s de salvarme, subiÃ³ por este camino hacia un sitio llamado Torre Bellavista. Dijo algo sobre eliminar una serpentina creoâ€¦
+:fade:redstreamer1:
+:bg:redstreamer2:
+:bf:default:Â¡Bah!
+:toad:default:Â¡Hasta pronto, y buena suerte buscando a Mario!
+:toad:default:Â¡Ah por cierto, yo me vuelvo a mi trabajo en la tienda. Cuando querÃ¡is, pasaros por allÃ­!
+:bg:hide:
+:cutscenesix:
+:music:1-3:
+:music:fadeIn:
+:picnic:default:Â¡Alto ahÃ­!
+:bf:default:Â¡Bap!
+:narrator:default:Un grupo de enemigos de pronto saltÃ³ en frente de su camino.
+:picnic:default:Hmmâ€¦ Nos habremos saltado uno. Â¡Â¡MÃ¡s te vale prepararte para ser doblado!!

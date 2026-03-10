@@ -1,0 +1,85 @@
+:music:3-2:
+:music:fadeIn:
+:bg:thrillsatnight1:
+:narrator:default:Boyfriend explica sua situaÃ§Ã£o a Olivia .
+:olivia:default:Ah? VocÃª acha que o Mario pode consertar sua namorada? Espera aÃ­, deixa eu ver uma coisa...
+:fade:thrillsatnight1:
+:bg:thrillsatnight2:
+:sound:sandrun:
+:olivia:default:Ã‰ como eu esperava, ela estÃ¡ grampeada. Mario nÃ£o pode consertÃ¡-la, atÃ© onde sabemos, ela pode estar presa assim para sempre.
+:bf:default:B-B-B-Beeeep!?
+:bg:thrillsatnight3:
+:sound:fallover:
+:bg:tear:
+:narrator:default:As notÃ­cias devastaram Boyfriend. Ele caiu de joelhos e chorou.
+:olivia:default:Ah nÃ£o!, u-uhâ€¦ Ei, nÃ£o chore!
+:music:3-3:
+:music:fadeIn:
+:bg:thrillsatnight4:
+:bg:flash:
+:sound:hug:
+:olivia:default:TÃ¡ tudo bem, eu tenho certeza que deve ter algum outro jeito que possamos arrumar para mudÃ¡-la de volta ao normal.
+:olivia:default:Uhmâ€¦ nÃ³s poderiamos trazer vocÃªs dois conosco,
+:bf:default:...
+:bf:default:Beep?
+:olivia:default:Ã‰ claro! Eu tenho certeza que Mario e o professor nÃ£o iriam se importar com a presenÃ§a de vocÃªs dois, certo?
+:prof:default:Bem, nÃ£o vejo porque nÃ£o. Qualquer ajuda extra Ã© bem-vinda!
+:olivia:default:Ã“timo!
+:prof:default:De qualquer jeito, nÃ³s precisamos chegar a aquele templo. Vamos! Estou morrendo pra ver o que tem dentro dele.
+:fade:thrillsatnight4:
+:bg:thrillsatnight5:
+:narrator:default:Agora um grupo 5 andam pelo templo enquanto o cÃ©u escuro do deserto paira sobre eles.
+:olivia:default:Eu ainda me pergunto o que aconteceu com o sol, desertos nÃ£o sÃ£o tipo... Ensolarados normalmente?
+:prof:default:Ã‰, esse geralmente Ã© o caso... NÃ³s voltaremos para o buraco gigante no cÃ©u depois.
+:narrator:default:Eles entram no templo como se nÃ£o tivessem um segundo a perder.
+:music:3-4:
+:music:fadeIn:
+:fade:thrillsatnight5:
+:bg:thrillsatnight6:
+:sound:sandrun:
+:prof:default:Minha nossa, isso Ã© fascinante... sÃ³ olha como isso Ã© construÃ­do, deve ter sido feito Ã¡ milhares de anos atrÃ¡s...
+:prof:default:E esses murais devem ser dos ancestrais, onde estÃ¡ meu diÃ¡rio? Eu preciso anotar tudo isso.
+:olivia:default:Voltando ao assunto, eu me pergunto onde o meu irmÃ£o estÃ¡ guardando a fita amarela.
+:prof:default:Ah Ã©â€¦ Talvez salvar o mundo seja mais importante.
+:fade:thrillsatnight6:
+:bg:thrillsatnight7:
+:music:3-5:
+:music:fadeIn:
+:narrator:default:O grupo eventualmente chega em oque parece ser um grande salÃ£o de festa.
+:prof:default:Os ancestrais curtiam dar uma festa?
+:narrator:default:Antes que sua pergunta pudesse ser respondida, uma voz barulhenta emergiu das grandes portas atrÃ¡s deles.
+:bg:tear:
+:bg:flash:
+:sound:screenshake:
+:devil:blackened:NÃ£o nÃ£o nÃ£o! VocÃª acha que isso aÃ­ Ã© bom?! Eu achei que o Rei me daria soldados com gosto decente em mÃºsica!
+:olivia:default:Eu nÃ£o sei se os ancestrais curtiam dar uma festa, mas eu tenho certeza que quem Ã© que seja esse curta...
+:olivia:default:Espera, se Ã© um amigo do meu irmÃ£o, significa que a fita deve estar lÃ¡ dentro com eles!
+:bg:tear:
+:bg:flash:
+:sound:screenshake:
+:devil:blackened:Eu quero Ã© curtir, mas eu nÃ£o vou sair daqui atÃ© que aquela pista de danÃ§a esteja cheia!
+:bg:tear:
+:bg:flash:
+:sound:screenshake:
+:devil:blackened:E mudem essa mÃºsica horrÃ­vel nesse instante seus lerdos!!
+:fade:thrillsatnight7:
+:bg:thrillsatnight8:
+:narrator:default:O grupo se divide. Enquanto Boyfriend ajuda em escolher uma nova mÃºsica, Mario procura pessoas para encher a sala.
+:bf:default:Beep Boop bada boo.
+:dj:default:Me desculpa cara... E-Eu nÃ£o entendo mesmo...
+:narrator:default: Mario e Professor Toad encontram vÃ¡rios toads estranhos que reagem a mÃºsica distante.
+:prof:default:VocÃª tem certeza sobre isso, Mario...? Esses toads me assustamâ€¦
+:bg:thrillsatnight9:
+:sound:fallover:
+:bg:tear:
+:music:3-6:
+:music:fadeIn:
+:narrator:default:Quando Mario chegou com a multidÃ£o de toads, eles foram ao Boyfriend e jogaram ele ao ar.
+:bg:tear:
+:bg:flash:
+:bf:default:Beeep!!!
+:olivia:default:Eeita!! O que eles tÃ£o fazendo?
+:dj:default:Eu acho que aquele ali tÃ¡ desafiando ele aâ€¦ cantar? 
+:olivia:default:E por que iriam querer que ele cantasse?
+:prof:default:NÃ£o faÃ§o ideia, mas a gente precisa manter eles aqui tempo o bastante pra fazer a pessoa que estiver guardando a fita aparecer.
+:olivia:default:TÃ¡, sÃ³ toma cuidado...

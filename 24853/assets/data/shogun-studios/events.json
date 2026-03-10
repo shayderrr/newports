@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": null,
+		"player1": "bf",
+		"player2": "shyguy",
+		"player3": null,
+		"events": [
+			[
+				2250,
+				[
+					[
+						"Change Scroll Speed",
+						"1.6",
+						"0.2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-origami",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Shogun Studios"
+	}
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pencils.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pencils0000" x="0" y="0" width="727" height="280"/>
+	<SubTexture name="pencils0001" x="0" y="0" width="727" height="280"/>
+	<SubTexture name="pencils0002" x="728" y="0" width="727" height="280"/>
+	<SubTexture name="pencils0003" x="728" y="0" width="727" height="280"/>
+	<SubTexture name="pencils0004" x="0" y="281" width="727" height="280"/>
+	<SubTexture name="pencils0005" x="0" y="281" width="727" height="280"/>
+	<SubTexture name="pencils0006" x="728" y="281" width="727" height="280"/>
+	<SubTexture name="pencils0007" x="728" y="281" width="727" height="280"/>
+</TextureAtlas>

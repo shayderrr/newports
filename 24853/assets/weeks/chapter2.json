@@ -1,0 +1,50 @@
+{
+	"storyName": "Chapter 2",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "chapter1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"rubber",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Autumn Mountain Battle",
+			"autumn",
+			[
+				0,
+				117,
+				251
+			]
+		],
+		[
+			"Eddy River",
+			"gondol",
+			[
+				0,
+				117,
+				251
+			]
+		],
+		[
+			"Elastic Entertainer",
+			"rubber",
+			[
+				0,
+				117,
+				251
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Chapter 2",
+	"hiddenUntilUnlocked": false
+}

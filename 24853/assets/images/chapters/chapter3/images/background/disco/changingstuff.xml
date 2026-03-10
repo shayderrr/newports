@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="changingstuff.png">
+<SubTexture name="doorclosed0000" x="0" y="0" width="2560" height="907" frameX="0" frameY="0" frameWidth="2560" frameHeight="907" />
+<SubTexture name="dooropen0000" x="0" y="907" width="2560" height="902" frameX="0" frameY="0" frameWidth="2560" frameHeight="902" />
+<SubTexture name="heroesbop0000" x="2560" y="1453" width="1682" height="287" frameX="-264" frameY="-590" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="heroesbop0001" x="2560" y="1453" width="1682" height="287" frameX="-264" frameY="-590" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="heroesbop0002" x="2560" y="873" width="1676" height="290" frameX="-268" frameY="-587" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="heroesbop0003" x="2560" y="873" width="1676" height="290" frameX="-268" frameY="-587" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="heroesbop0004" x="2560" y="1163" width="1672" height="290" frameX="-270" frameY="-587" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="heroesbop0005" x="2560" y="1163" width="1672" height="290" frameX="-270" frameY="-587" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="heroesbop0006" x="0" y="1809" width="1665" height="292" frameX="-274" frameY="-585" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="heroesbop0007" x="0" y="1809" width="1665" height="292" frameX="-274" frameY="-585" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="heroesbop0008" x="0" y="1809" width="1665" height="292" frameX="-274" frameY="-585" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="frontbop0000" x="0" y="3073" width="2560" height="217" frameX="0" frameY="-179" frameWidth="2560" frameHeight="396" />
+<SubTexture name="frontbop0001" x="0" y="3073" width="2560" height="217" frameX="0" frameY="-179" frameWidth="2560" frameHeight="396" />
+<SubTexture name="frontbop0002" x="0" y="2850" width="2560" height="223" frameX="0" frameY="-173" frameWidth="2560" frameHeight="396" />
+<SubTexture name="frontbop0003" x="0" y="2850" width="2560" height="223" frameX="0" frameY="-173" frameWidth="2560" frameHeight="396" />
+<SubTexture name="frontbop0004" x="0" y="2624" width="2560" height="226" frameX="0" frameY="-170" frameWidth="2560" frameHeight="396" />
+<SubTexture name="frontbop0005" x="0" y="2624" width="2560" height="226" frameX="0" frameY="-170" frameWidth="2560" frameHeight="396" />
+<SubTexture name="frontbop0006" x="0" y="2393" width="2560" height="231" frameX="0" frameY="-165" frameWidth="2560" frameHeight="396" />
+<SubTexture name="frontbop0007" x="0" y="2393" width="2560" height="231" frameX="0" frameY="-165" frameWidth="2560" frameHeight="396" />
+<SubTexture name="boomheroesbop0000" x="2560" y="0" width="2231" height="291" frameX="-23" frameY="-587" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="boomheroesbop0001" x="2560" y="0" width="2231" height="291" frameX="-23" frameY="-587" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="boomheroesbop0002" x="2560" y="291" width="2229" height="291" frameX="-23" frameY="-586" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="boomheroesbop0003" x="2560" y="291" width="2229" height="291" frameX="-23" frameY="-586" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="boomheroesbop0004" x="0" y="2101" width="2228" height="292" frameX="-23" frameY="-585" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="boomheroesbop0005" x="0" y="2101" width="2228" height="292" frameX="-23" frameY="-585" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="boomheroesbop0006" x="2560" y="582" width="2228" height="291" frameX="-23" frameY="-584" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="boomheroesbop0007" x="2560" y="582" width="2228" height="291" frameX="-23" frameY="-584" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

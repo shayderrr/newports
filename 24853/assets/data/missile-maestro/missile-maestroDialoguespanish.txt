@@ -1,0 +1,26 @@
+:bg:missile1:
+:music:1-2:
+:music:fadeIn:
+:narrator:default:Tras ser rÃ¡pidamente derrotados por Boyfriend, desaparecieron y se convirtieron en monedas.
+:narrator:default:Boyfriend siguiÃ³ su camino.
+:fade:missile1:
+:bg:missile2:
+:narrator:default:Al pie de la montaÃ±a, Boyfriend se fijÃ³ en una cabina de telefÃ©rico que acababa de volver. Lo que significa que â€œMarioâ€ no deberÃ­a estar demasiado lejos.
+:fade:missile2:
+:bg:missile3:
+:narrator:default:Siguiendo la montaÃ±a camino arriba, llegaron al telefÃ©rico sin muchos problemas.
+:bg:hide:
+:cutsceneten:
+:music:1-4:
+:music:fadeIn:
+:colors:blackened:Â¡Â¡DETENTE!!
+:bf:default:Â¡Waaah!
+:narrator:default:De pronto, un grupo de lÃ¡pices de colores fantasmal hizo su apariciÃ³n en frente de la pareja.
+:colors:default:Â¡Vaya, quÃ© pena! Â¡Esta cabina estÃ¡ fuera de servicioâ€¦!
+:colors:default:Â¡No me puedo creer que Mario haya pasado por encima de mÃ­ para destruir la serpentina que estaba vigilando!
+:colors:default:Â¡Y usando mis propios misiles contra mÃ­!
+:colors:default:Maldito enanoâ€¦ Se pensaba que se habÃ­a deshecho de mÃ­â€¦
+:colors:default:Â¡Â¡!Aaghh!! Â¡Tengo que canalizar mi rabia a travÃ©s del arte!
+:colors:default:Hmmâ€¦ I vosotros dos tenÃ©is una cara de lienzo perfectaâ€¦
+:bf:default:Â¿B-bwah?
+:colors:default:Â¡No te muevas! Â¡Te voy a convertir en una obra maestra!

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="canoeshittin.png"><SubTexture name="canoeshittin idle0000" x="0" y="0" width="836" height="425" frameX="-13" frameY="-8" frameWidth="860" frameHeight="442" />
+<SubTexture name="canoeshittin idle0001" x="836" y="0" width="836" height="425" frameX="-13" frameY="-8" frameWidth="860" frameHeight="442" />
+<SubTexture name="canoeshittin idle0002" x="0" y="425" width="840" height="424" frameX="-11" frameY="-10" frameWidth="860" frameHeight="442" />
+<SubTexture name="canoeshittin idle0003" x="0" y="849" width="844" height="423" frameX="-9" frameY="-12" frameWidth="860" frameHeight="442" />
+</TextureAtlas>

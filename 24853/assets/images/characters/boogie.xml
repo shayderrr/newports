@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boogie.png">
+<SubTexture name="Sing Down0000" x="1512" y="383" width="291" height="359" frameX="-355" frameY="-341" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Down0001" x="1512" y="383" width="291" height="359" frameX="-355" frameY="-341" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Down0002" x="1512" y="742" width="300" height="353" frameX="-351" frameY="-347" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Down0003" x="1512" y="742" width="300" height="353" frameX="-351" frameY="-347" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0000" x="686" y="930" width="350" height="430" frameX="-379" frameY="-276" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0001" x="686" y="930" width="350" height="430" frameX="-379" frameY="-276" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0002" x="340" y="930" width="346" height="437" frameX="-380" frameY="-269" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0003" x="340" y="930" width="346" height="437" frameX="-380" frameY="-269" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0004" x="0" y="930" width="340" height="446" frameX="-382" frameY="-261" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0005" x="0" y="930" width="340" height="446" frameX="-382" frameY="-261" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0006" x="1174" y="0" width="338" height="449" frameX="-383" frameY="-257" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0007" x="1174" y="0" width="338" height="449" frameX="-383" frameY="-257" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0008" x="667" y="469" width="329" height="452" frameX="-387" frameY="-254" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0009" x="667" y="469" width="329" height="452" frameX="-387" frameY="-254" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0010" x="344" y="469" width="323" height="455" frameX="-389" frameY="-251" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0011" x="344" y="469" width="323" height="455" frameX="-389" frameY="-251" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Idle0012" x="344" y="469" width="323" height="455" frameX="-389" frameY="-251" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Left0000" x="337" y="0" width="420" height="468" frameX="-292" frameY="-230" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Left0001" x="337" y="0" width="420" height="468" frameX="-292" frameY="-230" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Left0002" x="757" y="0" width="417" height="467" frameX="-304" frameY="-231" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Left0003" x="757" y="0" width="417" height="467" frameX="-304" frameY="-231" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Right0000" x="1512" y="0" width="355" height="383" frameX="-288" frameY="-301" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Right0001" x="1512" y="0" width="355" height="383" frameX="-288" frameY="-301" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Right0002" x="1036" y="930" width="341" height="386" frameX="-288" frameY="-300" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Right0003" x="1036" y="930" width="341" height="386" frameX="-288" frameY="-300" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Up0000" x="0" y="0" width="337" height="469" frameX="-359" frameY="-240" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Up0001" x="0" y="0" width="337" height="469" frameX="-359" frameY="-240" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Up0002" x="0" y="469" width="344" height="461" frameX="-356" frameY="-247" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="Sing Up0003" x="0" y="469" width="344" height="461" frameX="-356" frameY="-247" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>
